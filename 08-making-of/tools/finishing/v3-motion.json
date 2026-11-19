@@ -1,0 +1,414 @@
+{
+ "input": "/home/felipe-lopez/Desktop/Runware Test/Creative Task Runware/Final Video/is-this-all-on-runware-v3-bridges-1080p.mp4",
+ "source": {
+  "width": 1920,
+  "height": 1080,
+  "fps": 24.0,
+  "fps_str": "24/1",
+  "frames": 1764,
+  "duration": 73.5,
+  "has_audio": true,
+  "color": {
+   "color_space": "bt709",
+   "color_transfer": "bt709",
+   "color_primaries": "bt709",
+   "color_range": "tv"
+  }
+ },
+ "px_unit": "output px at 1080 lines (ref px x 1)",
+ "events": [
+  {
+   "t": 1.625,
+   "frame": 39,
+   "kind": "impact",
+   "strength": 0.3522529436194379
+  },
+  {
+   "t": 5.0,
+   "frame": 120,
+   "kind": "cut",
+   "strength": 0.2576148808002472
+  },
+  {
+   "t": 5.625,
+   "frame": 135,
+   "kind": "speech",
+   "end": 10.0,
+   "strength": 0.7262054162473913
+  },
+  {
+   "t": 7.833333333333333,
+   "frame": 188,
+   "kind": "impact",
+   "strength": 0.9447639365526646
+  },
+  {
+   "t": 9.0,
+   "frame": 216,
+   "kind": "cut",
+   "strength": 0.38201582431793213
+  },
+  {
+   "t": 10.708333333333334,
+   "frame": 257,
+   "kind": "impact",
+   "strength": 0.36778188829107405
+  },
+  {
+   "t": 11.458333333333334,
+   "frame": 275,
+   "kind": "impact",
+   "strength": 0.3416353972061821
+  },
+  {
+   "t": 11.5,
+   "frame": 276,
+   "kind": "cut",
+   "strength": 0.46253859996795654
+  },
+  {
+   "t": 12.333333333333334,
+   "frame": 296,
+   "kind": "speech",
+   "end": 13.25,
+   "strength": 0.6652190376677978
+  },
+  {
+   "t": 12.583333333333334,
+   "frame": 302,
+   "kind": "impact",
+   "strength": 0.4028895253720491
+  },
+  {
+   "t": 13.708333333333334,
+   "frame": 329,
+   "kind": "rumble",
+   "strength": 0.9825128737354318,
+   "end": 14.208333333333334
+  },
+  {
+   "t": 15.958333333333334,
+   "frame": 383,
+   "kind": "speech",
+   "end": 17.541666666666668,
+   "strength": 0.60144680089666
+  },
+  {
+   "t": 17.916666666666668,
+   "frame": 430,
+   "kind": "rumble",
+   "strength": 0.9975188555780484,
+   "end": 18.583333333333332
+  },
+  {
+   "t": 19.333333333333332,
+   "frame": 464,
+   "kind": "flash",
+   "strength": 0.676454794229807
+  },
+  {
+   "t": 20.083333333333332,
+   "frame": 482,
+   "kind": "impact",
+   "strength": 0.4418902438619863
+  },
+  {
+   "t": 21.0,
+   "frame": 504,
+   "kind": "cut",
+   "strength": 0.32222360372543335
+  },
+  {
+   "t": 23.083333333333332,
+   "frame": 554,
+   "kind": "speech",
+   "end": 24.0,
+   "strength": 0.6350588199081132
+  },
+  {
+   "t": 23.708333333333332,
+   "frame": 569,
+   "kind": "impact",
+   "strength": 0.25
+  },
+  {
+   "t": 24.0,
+   "frame": 576,
+   "kind": "cut",
+   "strength": 0.5196641087532043
+  },
+  {
+   "t": 24.041666666666668,
+   "frame": 577,
+   "kind": "rumble",
+   "strength": 1.0,
+   "end": 24.666666666666668
+  },
+  {
+   "t": 24.791666666666668,
+   "frame": 595,
+   "kind": "speech",
+   "end": 30.708333333333332,
+   "strength": 0.8599706321538713
+  },
+  {
+   "t": 28.0,
+   "frame": 672,
+   "kind": "cut",
+   "strength": 0.7721134424209595
+  },
+  {
+   "t": 34.583333333333336,
+   "frame": 830,
+   "kind": "speech",
+   "end": 35.791666666666664,
+   "strength": 0.7790999124429872
+  },
+  {
+   "t": 40.791666666666664,
+   "frame": 979,
+   "kind": "rumble",
+   "strength": 0.9929717904056201,
+   "end": 41.333333333333336
+  },
+  {
+   "t": 40.958333333333336,
+   "frame": 983,
+   "kind": "impact",
+   "strength": 0.25
+  },
+  {
+   "t": 42.958333333333336,
+   "frame": 1031,
+   "kind": "impact",
+   "strength": 0.6415887762721304
+  },
+  {
+   "t": 43.0,
+   "frame": 1032,
+   "kind": "cut",
+   "strength": 0.31325048208236694
+  },
+  {
+   "t": 44.125,
+   "frame": 1059,
+   "kind": "rumble",
+   "strength": 1.0,
+   "end": 45.166666666666664
+  },
+  {
+   "t": 46.291666666666664,
+   "frame": 1111,
+   "kind": "speech",
+   "end": 50.041666666666664,
+   "strength": 0.8401219895817656
+  },
+  {
+   "t": 48.0,
+   "frame": 1152,
+   "kind": "cut",
+   "strength": 0.548589289188385
+  },
+  {
+   "t": 49.916666666666664,
+   "frame": 1198,
+   "kind": "impact",
+   "strength": 0.25
+  },
+  {
+   "t": 50.0,
+   "frame": 1200,
+   "kind": "cut",
+   "strength": 0.41632941365242004
+  },
+  {
+   "t": 50.333333333333336,
+   "frame": 1208,
+   "kind": "flash",
+   "strength": 0.368618078139791
+  },
+  {
+   "t": 51.916666666666664,
+   "frame": 1246,
+   "kind": "speech",
+   "end": 53.166666666666664,
+   "strength": 0.6552378300019588
+  },
+  {
+   "t": 53.0,
+   "frame": 1272,
+   "kind": "cut",
+   "strength": 0.4019170105457306
+  },
+  {
+   "t": 55.0,
+   "frame": 1320,
+   "kind": "flash",
+   "strength": 0.6254097203744318
+  },
+  {
+   "t": 55.25,
+   "frame": 1326,
+   "kind": "impact",
+   "strength": 0.3975218731424083
+  },
+  {
+   "t": 56.0,
+   "frame": 1344,
+   "kind": "cut",
+   "strength": 0.7388628125190735
+  },
+  {
+   "t": 56.541666666666664,
+   "frame": 1357,
+   "kind": "rumble",
+   "strength": 0.8723913304531404,
+   "end": 57.083333333333336
+  },
+  {
+   "t": 57.458333333333336,
+   "frame": 1379,
+   "kind": "speech",
+   "end": 60.958333333333336,
+   "strength": 0.8480991569643068
+  },
+  {
+   "t": 59.0,
+   "frame": 1416,
+   "kind": "cut",
+   "strength": 0.5067499876022339
+  },
+  {
+   "t": 60.791666666666664,
+   "frame": 1459,
+   "kind": "cut",
+   "strength": 0.22538548707962036
+  },
+  {
+   "t": 60.791666666666664,
+   "frame": 1459,
+   "kind": "impact",
+   "strength": 0.27493841724919904
+  },
+  {
+   "t": 60.833333333333336,
+   "frame": 1460,
+   "kind": "rumble",
+   "strength": 0.9930338961127199,
+   "end": 61.666666666666664
+  },
+  {
+   "t": 61.166666666666664,
+   "frame": 1468,
+   "kind": "flash",
+   "strength": 0.47196592384817276
+  },
+  {
+   "t": 61.791666666666664,
+   "frame": 1483,
+   "kind": "cut",
+   "strength": 0.6085354089736938
+  },
+  {
+   "t": 61.791666666666664,
+   "frame": 1483,
+   "kind": "impact",
+   "strength": 0.47082132256549336
+  },
+  {
+   "t": 62.083333333333336,
+   "frame": 1490,
+   "kind": "flash",
+   "strength": 0.7320064977054263
+  },
+  {
+   "t": 62.291666666666664,
+   "frame": 1495,
+   "kind": "cut",
+   "strength": 0.36520054936408997
+  },
+  {
+   "t": 62.541666666666664,
+   "frame": 1501,
+   "kind": "speech",
+   "end": 63.958333333333336,
+   "strength": 0.7171286312522442
+  },
+  {
+   "t": 63.166666666666664,
+   "frame": 1516,
+   "kind": "impact",
+   "strength": 0.31779358076012654
+  },
+  {
+   "t": 64.0,
+   "frame": 1536,
+   "kind": "cut",
+   "strength": 0.557552695274353
+  },
+  {
+   "t": 66.33333333333333,
+   "frame": 1592,
+   "kind": "speech",
+   "end": 68.04166666666667,
+   "strength": 0.8620576842383189
+  },
+  {
+   "t": 69.41666666666667,
+   "frame": 1666,
+   "kind": "speech",
+   "end": 70.08333333333333,
+   "strength": 0.6331283450400682
+  },
+  {
+   "t": 69.91666666666667,
+   "frame": 1678,
+   "kind": "flash",
+   "strength": 0.7222636518494207
+  },
+  {
+   "t": 70.0,
+   "frame": 1680,
+   "kind": "cut",
+   "strength": 1.0
+  }
+ ],
+ "knobs": {
+  "seed": 7,
+  "scale": 1.06,
+  "drift_x": 13.0,
+  "drift_y": 7.5,
+  "drift_rot": 0.32,
+  "step_hz": 1.8,
+  "bounce": 2.4,
+  "sway": 2.0,
+  "sway_rot": 0.1,
+  "breath_hz": 0.25,
+  "breath": 1.6,
+  "breath_rot": 0.05,
+  "jolt": 11.0,
+  "jolt_rot": 0.4,
+  "jolt_tau": 0.15,
+  "jolt_hz": 4.2,
+  "rumble": 4.0,
+  "max_rot": 1.0,
+  "speech_calm": 0.6,
+  "dark_calm": 0.7,
+  "safety": 2.0
+ },
+ "stats": {
+  "frames": 1764,
+  "max_abs_rot_deg": 0.6716118266501094,
+  "max_abs_dx_refpx": 27.94552493322134,
+  "max_abs_dy_refpx": 15.402501780744066,
+  "rms_dx_refpx": 11.117405384050958,
+  "rms_dy_refpx": 6.461292040745941,
+  "min_margin_refpx": 10.444090979103862,
+  "frames_limited": 0,
+  "max_step_refpx": 5.838942980153257,
+  "jerk_calm_max_refpx": 1.127816104640969,
+  "jerk_jolt_max_refpx": 5.844196072225678,
+  "jerk_calm_rot_deg": 0.018746583972603592,
+  "jolts": 26
+ }
+}

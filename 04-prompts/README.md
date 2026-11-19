@@ -12,6 +12,8 @@ Everything the agents were told, and everything they then said to the models. Th
 | [`plates/`](plates/) | the prompt that drew each location plate, with its takes |
 | [`sheet-facts/`](sheet-facts/) | the facts fed to `sheet_build` for every character and mob (height in heads, build, age, palette, materials, marks, always and never), one JSON each, and the checker that verifies the drawn panels against them |
 
+The prompts name their input files by the path they had on the production machine, as written; that is the record and it is left as it is. Every such file is in this repository or in the [Drive folder](https://drive.google.com/drive/folders/1FWxTWA6g5YAU0IvnW3phteEQP4Db5o-Y) at the place [`tools/paths.json`](../tools/paths.json) gives for it.
+
 ## How a clip prompt is assembled
 
 In this order, every time, so that Seedance performs the lines, the tone and the sound itself:

@@ -91,48 +91,52 @@
 <text x="890" y="330" fill="rgba(255,255,255,0.6)" font-size="10.5">Nano Banana Pro</text>
 <text x="890" y="350" fill="#ff8a3d" font-size="10" letter-spacing="1">DONE</text>
 <circle cx="1100" cy="278" r="2.2" fill="none" stroke="rgba(255,255,255,0.8)" stroke-width="0.8"/>
-<rect x="1142" y="262" width="248" height="108" fill="#ff3b2f" opacity="0.45" filter="url(#hot)"/>
+<rect x="1142" y="262" width="248" height="108" fill="#ff8a3d" opacity="0.28" filter="url(#ember)"/>
 <rect x="1148" y="268" width="236" height="96" fill="#050505" stroke="rgba(255,255,255,0.75)" stroke-width="1"/>
 <rect x="1148" y="268" width="5" height="96" fill="#e87d0d" opacity="1"/>
 <text x="1164" y="290" fill="#e8e8e8" font-size="12" letter-spacing="1">05</text>
 <text x="1192" y="290" fill="#e8e8e8" font-size="13.5">meshes and stage</text>
 <text x="1164" y="312" fill="#e87d0d" fill-opacity="0.95" font-size="10.5">blender · cast_mesh, scene_build</text>
 <text x="1164" y="330" fill="rgba(255,255,255,0.6)" font-size="10.5">TRELLIS.2, Blender</text>
-<text x="1164" y="350" fill="#ff3b2f" font-size="10" letter-spacing="1">BEING MADE NOW</text>
+<text x="1164" y="350" fill="#ff8a3d" font-size="10" letter-spacing="1">DONE</text>
 <circle cx="1374" cy="278" r="2.2" fill="none" stroke="rgba(255,255,255,0.8)" stroke-width="0.8"/>
+<rect x="1142" y="442" width="248" height="108" fill="#ff8a3d" opacity="0.28" filter="url(#ember)"/>
 <rect x="1148" y="448" width="236" height="96" fill="#050505" stroke="rgba(255,255,255,0.75)" stroke-width="1"/>
 <rect x="1148" y="448" width="5" height="96" fill="#e87d0d" opacity="1"/>
 <text x="1164" y="470" fill="#e8e8e8" font-size="12" letter-spacing="1">06</text>
 <text x="1192" y="470" fill="#e8e8e8" font-size="13.5">blocking</text>
 <text x="1164" y="492" fill="#e87d0d" fill-opacity="0.95" font-size="10.5">blender · scene_block, scene_pass</text>
-<text x="1164" y="510" fill="rgba(255,255,255,0.6)" font-size="10.5">a clay clip per shot</text>
-<text x="1164" y="530" fill="#e8e8e8" font-size="10" letter-spacing="1">NEXT</text>
+<text x="1164" y="510" fill="rgba(255,255,255,0.6)" font-size="10.5">16 clay clips</text>
+<text x="1164" y="530" fill="#ff8a3d" font-size="10" letter-spacing="1">DONE</text>
 <circle cx="1374" cy="458" r="2.2" fill="none" stroke="rgba(255,255,255,0.8)" stroke-width="0.8"/>
-<rect x="871" y="445" width="242" height="102" fill="#d8ff3d" opacity="0.08" filter="url(#hot)"/>
-<rect x="874" y="448" width="236" height="96" fill="#050505" stroke="rgba(255,255,255,0.3)" stroke-width="1"/>
-<rect x="874" y="448" width="5" height="96" fill="#d8ff3d" opacity="0.45"/>
-<text x="890" y="470" fill="rgba(255,255,255,0.55)" font-size="12" letter-spacing="1">07</text>
-<text x="918" y="470" fill="rgba(255,255,255,0.55)" font-size="13.5">frames</text>
-<text x="890" y="492" fill="#d8ff3d" fill-opacity="0.6" font-size="10.5">runware · rw_image</text>
+<rect x="868" y="442" width="248" height="108" fill="#ff8a3d" opacity="0.28" filter="url(#ember)"/>
+<rect x="871" y="445" width="242" height="102" fill="#d8ff3d" opacity="0.22" filter="url(#hot)"/>
+<rect x="874" y="448" width="236" height="96" fill="#050505" stroke="rgba(255,255,255,0.75)" stroke-width="1"/>
+<rect x="874" y="448" width="5" height="96" fill="#d8ff3d" opacity="1"/>
+<text x="890" y="470" fill="#e8e8e8" font-size="12" letter-spacing="1">07</text>
+<text x="918" y="470" fill="#e8e8e8" font-size="13.5">frames</text>
+<text x="890" y="492" fill="#d8ff3d" fill-opacity="0.95" font-size="10.5">runware · rw_image</text>
 <text x="890" y="510" fill="rgba(255,255,255,0.6)" font-size="10.5">Nano Banana Pro</text>
-<text x="890" y="530" fill="rgba(255,255,255,0.4)" font-size="10" letter-spacing="1">PENDING</text>
+<text x="890" y="530" fill="#ff8a3d" font-size="10" letter-spacing="1">DONE</text>
 <circle cx="1100" cy="458" r="2.2" fill="none" stroke="rgba(255,255,255,0.8)" stroke-width="0.8"/>
-<rect x="597" y="445" width="242" height="102" fill="#d8ff3d" opacity="0.08" filter="url(#hot)"/>
-<rect x="600" y="448" width="236" height="96" fill="#050505" stroke="rgba(255,255,255,0.3)" stroke-width="1"/>
-<rect x="600" y="448" width="5" height="96" fill="#d8ff3d" opacity="0.45"/>
-<text x="616" y="470" fill="rgba(255,255,255,0.55)" font-size="12" letter-spacing="1">08</text>
-<text x="644" y="470" fill="rgba(255,255,255,0.55)" font-size="13.5">clips</text>
-<text x="616" y="492" fill="#d8ff3d" fill-opacity="0.6" font-size="10.5">runware · rw_video</text>
-<text x="616" y="510" fill="rgba(255,255,255,0.6)" font-size="10.5">Seedance 2.5 at 4K</text>
-<text x="616" y="530" fill="rgba(255,255,255,0.4)" font-size="10" letter-spacing="1">PENDING</text>
+<rect x="594" y="442" width="248" height="108" fill="#ff8a3d" opacity="0.28" filter="url(#ember)"/>
+<rect x="597" y="445" width="242" height="102" fill="#d8ff3d" opacity="0.22" filter="url(#hot)"/>
+<rect x="600" y="448" width="236" height="96" fill="#050505" stroke="rgba(255,255,255,0.75)" stroke-width="1"/>
+<rect x="600" y="448" width="5" height="96" fill="#d8ff3d" opacity="1"/>
+<text x="616" y="470" fill="#e8e8e8" font-size="12" letter-spacing="1">08</text>
+<text x="644" y="470" fill="#e8e8e8" font-size="13.5">clips</text>
+<text x="616" y="492" fill="#d8ff3d" fill-opacity="0.95" font-size="10.5">runware · rw_video</text>
+<text x="616" y="510" fill="rgba(255,255,255,0.6)" font-size="10.5">Seedance 2.5: 16 shots, retakes, bridges</text>
+<text x="616" y="530" fill="#ff8a3d" font-size="10" letter-spacing="1">DONE</text>
 <circle cx="826" cy="458" r="2.2" fill="none" stroke="rgba(255,255,255,0.8)" stroke-width="0.8"/>
-<rect x="326" y="448" width="236" height="96" fill="#050505" stroke="rgba(255,255,255,0.3)" stroke-width="1"/>
-<rect x="326" y="448" width="5" height="96" fill="#f3e9c6" opacity="0.45"/>
-<text x="342" y="470" fill="rgba(255,255,255,0.55)" font-size="12" letter-spacing="1">09</text>
-<text x="370" y="470" fill="rgba(255,255,255,0.55)" font-size="13.5">prompt assembly</text>
-<text x="342" y="492" fill="#f3e9c6" fill-opacity="0.6" font-size="10.5">prompt-smith · prompt_check</text>
+<rect x="320" y="442" width="248" height="108" fill="#ff8a3d" opacity="0.28" filter="url(#ember)"/>
+<rect x="326" y="448" width="236" height="96" fill="#050505" stroke="rgba(255,255,255,0.75)" stroke-width="1"/>
+<rect x="326" y="448" width="5" height="96" fill="#f3e9c6" opacity="1"/>
+<text x="342" y="470" fill="#e8e8e8" font-size="12" letter-spacing="1">09</text>
+<text x="370" y="470" fill="#e8e8e8" font-size="13.5">prompt assembly</text>
+<text x="342" y="492" fill="#f3e9c6" fill-opacity="0.95" font-size="10.5">prompt-smith · prompt_check</text>
 <text x="342" y="510" fill="rgba(255,255,255,0.6)" font-size="10.5">LOOK, WORLD, LOCK</text>
-<text x="342" y="530" fill="rgba(255,255,255,0.4)" font-size="10" letter-spacing="1">PENDING</text>
+<text x="342" y="530" fill="#ff8a3d" font-size="10" letter-spacing="1">DONE</text>
 <circle cx="552" cy="458" r="2.2" fill="none" stroke="rgba(255,255,255,0.8)" stroke-width="0.8"/>
 <rect x="49" y="445" width="242" height="102" fill="#d8ff3d" opacity="0.08" filter="url(#hot)"/>
 <rect x="52" y="448" width="236" height="96" fill="#050505" stroke="rgba(255,255,255,0.3)" stroke-width="1"/>
@@ -143,21 +147,23 @@
 <text x="68" y="510" fill="rgba(255,255,255,0.6)" font-size="10.5">MiniMax, Fish, Mirelo, ACE</text>
 <text x="68" y="530" fill="rgba(255,255,255,0.4)" font-size="10" letter-spacing="1">PENDING</text>
 <circle cx="278" cy="458" r="2.2" fill="none" stroke="rgba(255,255,255,0.8)" stroke-width="0.8"/>
-<rect x="52" y="628" width="236" height="96" fill="#050505" stroke="rgba(255,255,255,0.3)" stroke-width="1"/>
-<rect x="52" y="628" width="5" height="96" fill="#e8ff7a" opacity="0.45"/>
-<text x="68" y="650" fill="rgba(255,255,255,0.55)" font-size="12" letter-spacing="1">11</text>
-<text x="96" y="650" fill="rgba(255,255,255,0.55)" font-size="13.5">the cut</text>
-<text x="68" y="672" fill="#e8ff7a" fill-opacity="0.6" font-size="10.5">opencut · board_cut, cut_edit</text>
-<text x="68" y="690" fill="rgba(255,255,255,0.6)" font-size="10.5">24 fps, 60 s</text>
-<text x="68" y="710" fill="rgba(255,255,255,0.4)" font-size="10" letter-spacing="1">PENDING</text>
+<rect x="46" y="622" width="248" height="108" fill="#ff3b2f" opacity="0.45" filter="url(#hot)"/>
+<rect x="52" y="628" width="236" height="96" fill="#050505" stroke="rgba(255,255,255,0.75)" stroke-width="1"/>
+<rect x="52" y="628" width="5" height="96" fill="#e8ff7a" opacity="1"/>
+<text x="68" y="650" fill="#e8e8e8" font-size="12" letter-spacing="1">11</text>
+<text x="96" y="650" fill="#e8e8e8" font-size="13.5">the cut and the finish</text>
+<text x="68" y="672" fill="#e8ff7a" fill-opacity="0.95" font-size="10.5">opencut · board_cut, cut_edit</text>
+<text x="68" y="690" fill="rgba(255,255,255,0.6)" font-size="10.5">4 assemblies; 4K CRT finish</text>
+<text x="68" y="710" fill="#ff3b2f" font-size="10" letter-spacing="1">BEING MADE NOW</text>
 <circle cx="278" cy="638" r="2.2" fill="none" stroke="rgba(255,255,255,0.8)" stroke-width="0.8"/>
-<rect x="326" y="628" width="236" height="96" fill="#050505" stroke="rgba(255,255,255,0.3)" stroke-width="1"/>
-<rect x="326" y="628" width="5" height="96" fill="#f2c94c" opacity="0.45"/>
-<text x="342" y="650" fill="rgba(255,255,255,0.55)" font-size="12" letter-spacing="1">12</text>
-<text x="370" y="650" fill="rgba(255,255,255,0.55)" font-size="13.5">title</text>
-<text x="342" y="672" fill="#f2c94c" fill-opacity="0.6" font-size="10.5">titles · title_render</text>
+<rect x="320" y="622" width="248" height="108" fill="#ff8a3d" opacity="0.28" filter="url(#ember)"/>
+<rect x="326" y="628" width="236" height="96" fill="#050505" stroke="rgba(255,255,255,0.75)" stroke-width="1"/>
+<rect x="326" y="628" width="5" height="96" fill="#f2c94c" opacity="1"/>
+<text x="342" y="650" fill="#e8e8e8" font-size="12" letter-spacing="1">12</text>
+<text x="370" y="650" fill="#e8e8e8" font-size="13.5">title</text>
+<text x="342" y="672" fill="#f2c94c" fill-opacity="0.95" font-size="10.5">titles · title_render</text>
 <text x="342" y="690" fill="rgba(255,255,255,0.6)" font-size="10.5">white serif on black</text>
-<text x="342" y="710" fill="rgba(255,255,255,0.4)" font-size="10" letter-spacing="1">PENDING</text>
+<text x="342" y="710" fill="#ff8a3d" font-size="10" letter-spacing="1">DONE</text>
 <circle cx="552" cy="638" r="2.2" fill="none" stroke="rgba(255,255,255,0.8)" stroke-width="0.8"/>
 <rect x="600" y="628" width="236" height="96" fill="#050505" stroke="rgba(255,255,255,0.3)" stroke-width="1"/>
 <rect x="600" y="628" width="5" height="96" fill="#00ff88" opacity="0.45"/>
@@ -175,10 +181,10 @@
 <text x="890" y="690" fill="rgba(255,255,255,0.6)" font-size="10.5">post, website piece</text>
 <text x="890" y="710" fill="rgba(255,255,255,0.4)" font-size="10" letter-spacing="1">PENDING</text>
 <circle cx="1100" cy="638" r="2.2" fill="none" stroke="rgba(255,255,255,0.8)" stroke-width="0.8"/>
-<g transform="translate(1354 378) scale(1.0)" stroke="#e8e8e8" stroke-width="1" fill="none"><circle cx="0" cy="0" r="3.2"/><circle cx="0" cy="-5" r="1.8"/><path d="M1.5 -2.6 L5.5 -5.5 L8.5 -0.5"/><path d="M-1.5 -2.6 L-5.5 -5.5 L-8.5 -0.5"/><path d="M2.7 -1.3 L10.0 -0.6 L13.0 4.4"/><path d="M-2.7 -1.3 L-10.0 -0.6 L-13.0 4.4"/><path d="M2.7 1.3 L10.0 8.6 L13.0 13.6"/><path d="M-2.7 1.3 L-10.0 8.6 L-13.0 13.6"/><path d="M1.5 2.6 L5.5 13.5 L8.5 18.5"/><path d="M-1.5 2.6 L-5.5 13.5 L-8.5 18.5"/></g>
-<g transform="translate(1328 374) scale(0.8)" stroke="#e87d0d" stroke-width="1" fill="none"><circle cx="0" cy="0" r="3.2"/><circle cx="0" cy="-5" r="1.8"/><path d="M1.5 -2.6 L5.5 -5.5 L8.5 -0.5"/><path d="M-1.5 -2.6 L-5.5 -5.5 L-8.5 -0.5"/><path d="M2.7 -1.3 L10.0 -0.6 L13.0 4.4"/><path d="M-2.7 -1.3 L-10.0 -0.6 L-13.0 4.4"/><path d="M2.7 1.3 L10.0 8.6 L13.0 13.6"/><path d="M-2.7 1.3 L-10.0 8.6 L-13.0 13.6"/><path d="M1.5 2.6 L5.5 13.5 L8.5 18.5"/><path d="M-1.5 2.6 L-5.5 13.5 L-8.5 18.5"/></g>
+<g transform="translate(258 738) scale(1.0)" stroke="#e8e8e8" stroke-width="1" fill="none"><circle cx="0" cy="0" r="3.2"/><circle cx="0" cy="-5" r="1.8"/><path d="M1.5 -2.6 L5.5 -5.5 L8.5 -0.5"/><path d="M-1.5 -2.6 L-5.5 -5.5 L-8.5 -0.5"/><path d="M2.7 -1.3 L10.0 -0.6 L13.0 4.4"/><path d="M-2.7 -1.3 L-10.0 -0.6 L-13.0 4.4"/><path d="M2.7 1.3 L10.0 8.6 L13.0 13.6"/><path d="M-2.7 1.3 L-10.0 8.6 L-13.0 13.6"/><path d="M1.5 2.6 L5.5 13.5 L8.5 18.5"/><path d="M-1.5 2.6 L-5.5 13.5 L-8.5 18.5"/></g>
+<g transform="translate(232 734) scale(0.8)" stroke="#e87d0d" stroke-width="1" fill="none"><circle cx="0" cy="0" r="3.2"/><circle cx="0" cy="-5" r="1.8"/><path d="M1.5 -2.6 L5.5 -5.5 L8.5 -0.5"/><path d="M-1.5 -2.6 L-5.5 -5.5 L-8.5 -0.5"/><path d="M2.7 -1.3 L10.0 -0.6 L13.0 4.4"/><path d="M-2.7 -1.3 L-10.0 -0.6 L-13.0 4.4"/><path d="M2.7 1.3 L10.0 8.6 L13.0 13.6"/><path d="M-2.7 1.3 L-10.0 8.6 L-13.0 13.6"/><path d="M1.5 2.6 L5.5 13.5 L8.5 18.5"/><path d="M-1.5 2.6 L-5.5 13.5 L-8.5 18.5"/></g>
 <g transform="translate(1082 254) scale(0.8)" stroke="#d8ff3d" stroke-width="1" fill="none"><circle cx="0" cy="0" r="3.2"/><circle cx="0" cy="-5" r="1.8"/><path d="M1.5 -2.6 L5.5 -5.5 L8.5 -0.5"/><path d="M-1.5 -2.6 L-5.5 -5.5 L-8.5 -0.5"/><path d="M2.7 -1.3 L10.0 -0.6 L13.0 4.4"/><path d="M-2.7 -1.3 L-10.0 -0.6 L-13.0 4.4"/><path d="M2.7 1.3 L10.0 8.6 L13.0 13.6"/><path d="M-2.7 1.3 L-10.0 8.6 L-13.0 13.6"/><path d="M1.5 2.6 L5.5 13.5 L8.5 18.5"/><path d="M-1.5 2.6 L-5.5 13.5 L-8.5 18.5"/></g>
-<path d="M1354 378 L1374 278" stroke="rgba(255,255,255,0.35)" stroke-width="0.6"/>
+<path d="M258 738 L278 638" stroke="rgba(255,255,255,0.35)" stroke-width="0.6"/>
 <rect x="52" y="792" width="1336" height="74" fill="rgba(255,255,255,0.025)" stroke="rgba(255,255,255,0.55)" stroke-width="1"/>
 <rect x="52" y="792" width="5" height="74" fill="#9ec9ff"/>
 <text x="68" y="814" fill="#e8e8e8" font-size="13" letter-spacing="1">THE RECORD, UNDER EVERY STEP</text>

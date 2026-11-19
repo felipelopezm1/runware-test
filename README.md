@@ -6,7 +6,7 @@
 
 A 60-second hyper-realistic fantasy short, made for the Runware creative engineer assessment. Seven 3D-printed character minis, two mob prints and three clay-walled sets were built and photographed by hand; everything after that was made by agents running on Runware, through one API, and recorded as it happened.
 
-This repository is the home of the whole project: the hand-made inputs, the logic (the prompts, the continuity rules, the pipeline, the tools), the generated assets, the film, and the record of how it was made. The production is still running as this is written (19 November 2026): the folders are in place, each says what it holds and where it comes from, and the files arrive as the steps finish. Anything marked **pending** has not been made yet.
+This repository is the home of the whole project: the hand-made inputs, the logic (the prompts, the continuity rules, the pipeline, the tools), the generated assets, the film, and the record of how it was made. The production ran on 19 November 2026 and the finish is being built as this is written: every shot is filmed and its clay clip, takes and pick are here; the clean cut and the 4K finish arrive last. Anything marked **pending** has not been made yet. Everything too big for GitHub is in the [Drive folder](https://drive.google.com/drive/folders/1FWxTWA6g5YAU0IvnW3phteEQP4Db5o-Y), which mirrors these folders; no page here points at a private machine.
 
 | | |
 | --- | --- |
@@ -43,9 +43,9 @@ Numbered in the order the work happened. Each folder has its own README saying w
 | [`02-cast/`](02-cast/) | the seven characters and the two mobs | per character: the print photos, the persona sheet and the drawn panels, the cast mesh |
 | [`03-locations/`](03-locations/) | the three sets | per scene: the environment block, the build photos, the action maps, the Blender stage, the location plates; the stage axes |
 | [`04-prompts/`](04-prompts/) | the logic | the master prompt, the continuity bible, the asset paths, every prompt as sent per shot and per plate, the sheet facts |
-| [`05-shots/`](05-shots/) | one folder per shot | the clay blocking clip and passes, the frame takes and the approved frame, the clip takes and the pick, the prompt |
+| [`05-shots/`](05-shots/) | one folder per shot, and the two bridges | the clay blocking clip, its first frame and camera path, every Seedance 2.5 take (take-1, v2, v3), the pick, the comparison strips |
 | [`06-sound/`](06-sound/) | voices, foley and music | every line in its character's voice, every cue, the music bed |
-| [`07-cut/`](07-cut/) | the film | the 4K master, the 1080p copy, the title card, the picks in order, the time-lapse and the comparison reel |
+| [`07-cut/`](07-cut/) | the film | the title card, the 1080p assemblies, the clean cut and the 4K finish (on Drive and a release), the reels |
 | [`08-making-of/`](08-making-of/) | the record | the step log, the numbered screenshots and clips, the screen recordings, the working notes, the references, the tools |
 | [`09-showcase/`](09-showcase/) | what goes out | the social post, the website piece, the walkthrough recording |
 | [`10-b-roll/`](10-b-roll/) | the build on camera | printing, sculpting, painting and building, as filmed on a phone |
@@ -64,14 +64,14 @@ The quest followed fourteen steps, each on a named arm of Hephaestus and a pinne
 | 2 | references: openly licensed pictures of wet masonry, crypt stairs, roofless halls under stars, dart frogs, cane toads, earthworm skin, the weapons | scraper `find_references`, `grab_media` | Openverse, Wikimedia Commons | done |
 | 3 | storyboard: logline, characters, mobs, locations and props declared once; the Fountain script; every shot with size, angle, move, lens, cast, dialogue, sound and continuity | director `board_save`, `film_grammar` | | done, approved |
 | 4 | character sheets: the facts per character, then the panels drawn with the four print photos as references and the lock block as the prompt, then the sheet rendered | director `sheet_build`, `sheet_render`; Runware `rw_image`; prompt smith `prompt_check` | Nano Banana Pro (`google:4@2`) | done |
-| 5 | 3D counterparts and the stage: a mesh per character and mob from the rendered turnaround, each location built as a Blender stage in the frame of its build photos, turntables, the location plates | caster `cast_mesh`; Blender `scene_build`, `scene_place`, `scene_render`; Runware `rw_image` | TRELLIS.2; Nano Banana Pro | in progress |
-| 6 | blocking: every shot blocked on its stage with the cast at the positions and facings the action maps give; the clay clip is the locked camera and motion guide | Blender `scene_block`, `scene_pass` | | next |
-| 7 | frames: the first frame of every shot, from the clay first frame, the face panels, the plate and the prompt; locked on approval | Runware `rw_image`; `prompt_check` | Nano Banana Pro | pending |
-| 8 | clips: every shot filmed from its approved frame, with the face panels as references and the assembled prompt verbatim; 1A at 4K first, as the proof | Runware `rw_models`, `rw_video` | Seedance 2.5 (`bytedance:seedance@2.5`) at 4K | pending |
+| 5 | 3D counterparts and the stage: a mesh per character and mob from the rendered turnaround, each location built as a Blender stage in the frame of its build photos, turntables, the location plates | caster `cast_mesh`; Blender `scene_build`, `scene_place`, `scene_render`; Runware `rw_image` | TRELLIS.2; Nano Banana Pro | done |
+| 6 | blocking: every shot blocked on its stage with the cast at the positions and facings the action maps give; the clay clip is the locked camera and motion guide | Blender `scene_block`, `scene_pass` | | done: 16 clay clips, in `05-shots/` |
+| 7 | frames: the first frame of every shot, from the clay first frame, the face panels, the plate and the prompt; locked on approval | Runware `rw_image`; `prompt_check` | Nano Banana Pro | done |
+| 8 | clips: every shot filmed from its approved frame, with the face panels as references and the assembled prompt verbatim; 1A at 4K first, as the proof | Runware `rw_models`, `rw_video` | Seedance 2.5 (`bytedance:seedance@2.5`) | done: 16 shots, v2 and v3 retakes on eight, two bridges; every take in `05-shots/` |
 | 9 | prompt assembly: LOOK, WORLD, SCENE, location, every lock block with its state line and tags, the shot body, the hold line | prompt smith | | written |
-| 10 | voices and sound: every line in its voice, the frogs' chorus, the worm's scream, rain, lantern and steel, a 60 s low-string bed | Runware `rw_audio` | MiniMax Speech 2.8, Fish S2.1 Pro, Mirelo SFX 1.5, ACE-Step | pending |
-| 11 | the cut: shots in order, lines under their shots, cues, the rain building, a hard smash cut, a 1.5 s hold on black | director `board_attach`, `board_cut`; OpenCut `cut_edit` | | pending |
-| 12 | title: "Is this all on Runware?", white serif on black, 2 s | titles `title_render` | | pending |
+| 10 | voices and sound: every line in its voice, the frogs' chorus, the worm's scream, rain, lantern and steel, a 60 s low-string bed | Runware `rw_audio` | MiniMax Speech 2.8, Fish S2.1 Pro, Mirelo SFX 1.5, ACE-Step | no separate recordings yet |
+| 11 | the cut: shots in order, lines under their shots, cues, the rain building, a hard smash cut, a 1.5 s hold on black | director `board_attach`, `board_cut`; OpenCut `cut_edit` | | four 1080p assemblies made; the clean cut and the 4K handheld CRT finish are being built |
+| 12 | title: "Is this all on Runware?", white serif on black, 2 s | titles `title_render` | | done, in `07-cut/title/` |
 | 13 | masks and passes where a sky needs replacing or a worm shot a relight (optional) | SAM 3 `mask_video`, `depth_video` | | pending |
 | 14 | the showcase: a builder's post and a website piece drafted from the log | director | | pending |
 
@@ -88,15 +88,13 @@ Beside the steps, the record: a log entry for every step through one tool, scree
 
 ## Where the big files live
 
-GitHub keeps a single file under 100 MB and a repository comfortably under a few GB. This project will not fit in plain Git: the 4K takes are tens of MB each, the sheet panels are 7 to 9 MB each (about 1.1 GB with every rejected take), the screen recordings are 85 MB per ten minutes, and the phone footage of the build is about 900 MB. So:
+GitHub keeps a single file under 100 MB and warns above 50 MB. Measured against that, this project splits cleanly, and nothing needs Git LFS:
 
-- **In Git, as plain files**: everything that is text, every picked panel, plate and frame, the posters and thumbnails, the log, the screenshots, the prompts and the tools. This is the part you can read on GitHub.
-- **In Git through Git LFS** (the recommended path, see below): the picked take of every shot, the 1080p copy of the film, the meshes, the turntables and the process clips. Pointers in Git, the files on GitHub's large-file store, downloaded on demand.
-- **On Google Drive, mirrored in the same folder layout**: everything, including what Git never takes: the 4K master, every take including the rejected ones, every screen recording, the full-resolution phone footage. The Drive folder is the backup and the place to watch the big files without cloning: [Is this all on Runware? on Google Drive](https://drive.google.com/drive/folders/1FWxTWA6g5YAU0IvnW3phteEQP4Db5o-Y).
+- **In Git, as plain files**: everything that is text; every clay clip, first frame and camera path; every Seedance 2.5 take and pick (2 to 5 MB each, about 190 MB in all); the plates and stage renders; the title card; the previews, contact sheets and comparison strips; the log, the notes, the prompts and the tools. This is the part you can read and play on GitHub.
+- **On a GitHub release**: the finished film itself (the 4K finish and its 1080p copy), so it can be downloaded from the repository's page without Drive. A release asset may be up to 2 GB.
+- **On Google Drive, mirrored in the same folder layout**: everything, including what Git never takes: the 1080p assemblies (about 60 MB each), the 4K finish, the full-size character sheet panels (7 to 9 MB each, about 1.1 GB with every rejected take), the 250 numbered screenshots (about 290 MB), the screen recordings (85 MB per ten minutes), the phone photos of the minis and the builds, and the phone footage of the build (about 900 MB). The Drive folder is the backup and the place to open any of it without cloning: [Is this all on Runware? on Google Drive](https://drive.google.com/drive/folders/1FWxTWA6g5YAU0IvnW3phteEQP4Db5o-Y).
 
-Each folder's README says which of its files are on Drive only. The 4K master also goes on a GitHub Release as an asset, so the film itself can be downloaded from the repository's page without Drive.
-
-**Why Git LFS and not releases alone**: a release holds files, not folders; LFS keeps the picks and clips in the folder structure next to their prompts and logs, where someone reading the making-of expects them. **What it costs**: GitHub gives a free quota of LFS storage and bandwidth per month (10 GB of each at the time of writing, with paid data packs above it); the picks, clips and meshes of this project come to about 1 to 2 GB, so the free quota holds them, but every full clone downloads them again. This is a decision for the owner, not one made here; `.gitattributes` carries the LFS patterns commented out until it is made.
+Each folder's README says what is committed and that the rest is on Drive under the same path. The map from the production machine to both is [`tools/paths.json`](tools/paths.json).
 
 ## Reading the record
 

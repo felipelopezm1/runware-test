@@ -10,9 +10,6 @@ The three things the brief asks for beside the film.
 
 Both texts are drafted by the agents from the log and rewritten by hand before anything is published.
 
-**Comes from** (on the laptop)
-
-- `/home/felipe-lopez/titanium/.hephaestus/storyboards/is-this-all-on-runware/making-of/` pots (plan step 14)
-- the walkthrough: recorded by hand at the end
+**Where the files are:** what is committed is in this folder; everything else is in the [Drive folder](https://drive.google.com/drive/folders/1FWxTWA6g5YAU0IvnW3phteEQP4Db5o-Y) under `09-showcase/`, which mirrors these folders. Nothing here points at a private machine.
 
 **Status:** pending

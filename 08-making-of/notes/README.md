@@ -11,8 +11,9 @@ What each lane of agents wrote while working: readings, comparisons, proposals, 
 - `axes.md`: the stage frame
 - `inputs-manifest.md`: every hand-made input with what it shows
 
-**Comes from** (on the laptop)
+**Where the files are**
 
-- `/home/felipe-lopez/titanium/.hephaestus/storyboards/is-this-all-on-runware/making-of/notes/` and `/home/felipe-lopez/titanium/.hephaestus/storyboards/is-this-all-on-runware/making-of/inputs/manifest.md`
 
+
+Everything not committed here is in the [Drive folder](https://drive.google.com/drive/folders/1FWxTWA6g5YAU0IvnW3phteEQP4Db5o-Y), which mirrors these folders; nothing points at a private machine.
 **Status:** written; copied in at the end

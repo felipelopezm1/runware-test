@@ -7,8 +7,9 @@ The facts behind every character sheet, as fed to the character design maker, an
 - `ch-vel.json`, `ch-mordecai.json`, `ch-vessa.json`, `ch-dax.json`, `ch-borrin.json`, `ch-sylwen.json`, `ch-oswin.json`, `ch-mob-frogs.json`, `ch-mob-worm.json`
 - `check.py` and its README
 
-**Comes from** (on the laptop)
+**Where the files are**
 
-- `/home/felipe-lopez/titanium/.hephaestus/storyboards/is-this-all-on-runware/making-of/notes/sheet-facts/`
 
+
+Everything not committed here is in the [Drive folder](https://drive.google.com/drive/folders/1FWxTWA6g5YAU0IvnW3phteEQP4Db5o-Y), which mirrors these folders; nothing points at a private machine.
 **Status:** written; not yet copied in

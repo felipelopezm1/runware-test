@@ -8,11 +8,6 @@ The swarm: blue, yellow, orange, violet and lime frogs over warty olive toads; t
 - `sheet/`: `Mob 1 - Frogs and toads.md` (the hand-written persona sheet, in), `preview-face-front.jpg` (in) and the drawn panels at full size (pending the copy)
 - `mesh/`: the cast mesh and its turntable
 
-**Comes from** (on the laptop)
-
-- prints: `/home/felipe-lopez/Desktop/Runware Test/Creative Task Runware/Script/Characters/Mob 1/*.HEIC`
-- sheet: `/home/felipe-lopez/Desktop/Runware Test/Creative Task Runware/Script/Characters/Mob 1/Persona_Character Sheet/`
-- panels and every take: `/home/felipe-lopez/titanium/.hephaestus/storyboards/is-this-all-on-runware/making-of/sheets/mob1/`
-- mesh: `/home/felipe-lopez/titanium/.hephaestus/storyboards/is-this-all-on-runware/making-of/meshes/`
+**Where the files are:** what is committed is in this folder; everything else is in the [Drive folder](https://drive.google.com/drive/folders/1FWxTWA6g5YAU0IvnW3phteEQP4Db5o-Y) under `02-cast/mob1-frogs/`, which mirrors these folders. Nothing here points at a private machine.
 
 **Status:** 12 panels made (frog and toad views); round-pupil takes rejected

@@ -8,8 +8,9 @@ The outside recording of the desktop while the quest ran, made so that the whole
 - `shots/shot-YYYYmmdd-HHMMSS.png`: one full-screen shot a minute
 - `record.sh`, `shots.sh`, `README.md`: the scripts and their start and stop log
 
-**Comes from** (on the laptop)
+**Where the files are**
 
-- `/home/felipe-lopez/titanium/.hephaestus/storyboards/is-this-all-on-runware/making-of/recordings/`
 
+
+Everything not committed here is in the [Drive folder](https://drive.google.com/drive/folders/1FWxTWA6g5YAU0IvnW3phteEQP4Db5o-Y), which mirrors these folders; nothing points at a private machine.
 **Status:** running; these are the largest files of the project and go to Drive first (see the README on large files)

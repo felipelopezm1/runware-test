@@ -10,9 +10,6 @@ Every recorded line and every sound, all made on Runware.
 
 Where Seedance's own sound on a clip was better, it was kept and the foley for that shot skipped; the log says which.
 
-**Comes from** (on the laptop)
-
-- `/home/felipe-lopez/titanium/.hephaestus/storyboards/is-this-all-on-runware/making-of/audio/`
-- casting notes: `/home/felipe-lopez/titanium/.hephaestus/storyboards/is-this-all-on-runware/making-of/notes/voice-casting.md`
+**Where the files are:** what is committed is in this folder; everything else is in the [Drive folder](https://drive.google.com/drive/folders/1FWxTWA6g5YAU0IvnW3phteEQP4Db5o-Y) under `06-sound/`, which mirrors these folders. Nothing here points at a private machine.
 
 **Status:** pending (plan step 10); 40 lines and 36 cues planned

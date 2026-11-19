@@ -10,15 +10,9 @@ A 30 m vaulted corridor from the top of the stairs to a cold grey archway, ankle
 - `stage/`: Blender window captures, the top view beside the build photo, the master-view render, the turntable, the stage scripts
 - `plates/`: `lo-corridor-1.png`, `lo-corridor-2.png`, their layout overlays and the prompts that drew them
 
-**Comes from** (on the laptop)
+**Where the files are:** what is committed is in this folder; everything else is in the [Drive folder](https://drive.google.com/drive/folders/1FWxTWA6g5YAU0IvnW3phteEQP4Db5o-Y) under `03-locations/scene-2-corridor/`, which mirrors these folders. Nothing here points at a private machine.
 
-- environment: `/home/felipe-lopez/Desktop/Runware Test/Creative Task Runware/Script/Script (Scene 1 to 3)/Scene 2 (Direction & Description)/Scene 2 - Environment.md`
-- build photos: `/home/felipe-lopez/Desktop/Runware Test/Creative Task Runware/Pre Production Assets/Scenes/Scene 2/`
-- action maps: `/home/felipe-lopez/Desktop/Runware Test/Creative Task Runware/Pre Production Assets/Scenes/Scene 2/Scene 2 Actions/`
-- stage: `/home/felipe-lopez/Desktop/Runware Test/Creative Task Runware/Assets/Scene 2/` and `/home/felipe-lopez/titanium/.hephaestus/storyboards/is-this-all-on-runware/making-of/clay/_stage/`
-- plates: `/home/felipe-lopez/titanium/.hephaestus/storyboards/is-this-all-on-runware/making-of/plates/` (`lo-corridor-*.png`, `layout/`, `prompts/`)
-
-**Status:** build photos and maps exist; stage built and turntable rendered; plates drawn (corridor-1 needs small fixes at the frame step); not yet copied in
+**Status:** environment, stage renders, turntable, plates and the layout overlays are here; the build photos and action maps go to Drive (phone photos, 1 to 20 MB each) with the contact sheet here.
 
 ![layout of plate 1 over the build](plates/layout-lo-corridor-1.png)
 

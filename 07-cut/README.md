@@ -2,19 +2,14 @@
 
 The finished film and the reels made from the production.
 
-**What goes here**
+| folder | what it holds | where |
+| --- | --- | --- |
+| `title/` | the title card ("Is this all on Runware?", white serif on black, 2 s), the same with silence, the 1.5 s black, and the sheet it was drawn from | here |
+| `1080p/` | the four 1080p assemblies: `is-this-all-on-runware-v1-1080p.mp4`, `-v2-1080p.mp4`, `-1080p.mp4` (the final of the first day) and `-v3-bridges-1080p.mp4` (with the two bridge clips), about 60 MB each | Drive only (over GitHub's comfortable size for one file); the final one also on a GitHub release |
+| `passes/` | the clean cut and the finish being built now: the handheld pass and the CRT look, expected as `is-this-all-on-runware-crt-4k.mp4` with a 1080p copy | pending; the 4K master goes on Drive and on a GitHub release, the 1080p copy on Drive |
+| `picks/` | the picked take of every shot in order (copies of `05-shots/*/pick.mp4`) | in `05-shots/` here |
+| `reels/` | the time-lapse of every take and the comparison reel per shot | pending |
 
-- `master-4k/`: the 60 s cut at 4K, 16:9, 24 fps, with the 1.5 s hold on black and the 2 s title card (`is-this-all-on-runware-4k.mp4`)
-- `1080p/`: the 1080p copy rendered from the master
-- `title/`: the title card, "Is this all on Runware?", white serif on black, 2 s
-- `picks/`: the picked take of every shot, in order (copies of `05-shots/*/pick.mp4`)
-- `reels/`: the 60 s time-lapse of every frame and take in order (2 frames a second), and the comparison reel (for every shot: the build photo, the clay clip, the frame and the picked take side by side)
+**Where the files are:** what is committed is in this folder; everything else is in the [Drive folder](https://drive.google.com/drive/folders/1FWxTWA6g5YAU0IvnW3phteEQP4Db5o-Y) under `07-cut/`, which mirrors these folders. Nothing here points at a private machine.
 
-If the 4K path fails its proof, the clips are made at 1080p and the finished cut is upscaled once with Topaz Proteus to 4K; then both the 1080p cut and the upscaled one are kept here and the log says so.
-
-**Comes from** (on the laptop)
-
-- `/home/felipe-lopez/Desktop/Runware Test/Creative Task Runware/Final Video/` and `Final Shot/`
-- `/home/felipe-lopez/titanium/.hephaestus/storyboards/is-this-all-on-runware/making-of/takes/`
-
-**Status:** pending (plan steps 11 and 12)
+The 4K path held: every clip was made natively on Seedance 2.5, so Topaz was not needed for the clips; the finishing tools in [`08-making-of/tools/finishing/`](../08-making-of/tools/finishing/) carry a Topaz 4K pass for the finish if it is wanted.

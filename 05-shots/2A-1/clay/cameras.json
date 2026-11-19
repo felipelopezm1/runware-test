@@ -1,0 +1,3180 @@
+{
+ "take": "2A-1",
+ "fps": 24,
+ "frames": 96,
+ "resolution": [
+  960,
+  540
+ ],
+ "frame_note": "glTF Y up metres (the stage's scene.json frame); Blender Z up, (x, -z, y)",
+ "cameras": [
+  {
+   "frame": 1,
+   "t": 0.0,
+   "position_gltf": [
+    -0.45,
+    2.45,
+    -9.0
+   ],
+   "target_gltf": [
+    0.3,
+    1.2,
+    6.0
+   ],
+   "position_blender": [
+    -0.45,
+    9.0,
+    2.45
+   ],
+   "rotation_quat_blender_wxyz": [
+    0.018379,
+    0.016913,
+    -0.676936,
+    -0.735618
+   ],
+   "rotation_quat_gltf_xyzw": [
+    -0.001037,
+    -0.998826,
+    -0.041494,
+    0.024955
+   ],
+   "lens_mm": 35.0,
+   "sensor_width_mm": 36
+  },
+  {
+   "frame": 2,
+   "t": 0.0417,
+   "position_gltf": [
+    -0.4483,
+    2.4431,
+    -8.9757
+   ],
+   "target_gltf": [
+    0.3,
+    1.1991,
+    6.0243
+   ],
+   "position_blender": [
+    -0.4483,
+    8.9757,
+    2.4431
+   ],
+   "rotation_quat_blender_wxyz": [
+    0.018333,
+    0.016877,
+    -0.677085,
+    -0.735483
+   ],
+   "rotation_quat_gltf_xyzw": [
+    -0.001029,
+    -0.998836,
+    -0.041294,
+    0.024898
+   ],
+   "lens_mm": 35.0,
+   "sensor_width_mm": 36
+  },
+  {
+   "frame": 3,
+   "t": 0.0833,
+   "position_gltf": [
+    -0.4465,
+    2.4361,
+    -8.9514
+   ],
+   "target_gltf": [
+    0.3,
+    1.1983,
+    6.0486
+   ],
+   "position_blender": [
+    -0.4465,
+    8.9514,
+    2.4361
+   ],
+   "rotation_quat_blender_wxyz": [
+    0.018287,
+    0.016842,
+    -0.677233,
+    -0.735348
+   ],
+   "rotation_quat_gltf_xyzw": [
+    -0.001022,
+    -0.998846,
+    -0.041093,
+    0.02484
+   ],
+   "lens_mm": 35.0,
+   "sensor_width_mm": 36
+  },
+  {
+   "frame": 4,
+   "t": 0.125,
+   "position_gltf": [
+    -0.4448,
+    2.4292,
+    -8.9271
+   ],
+   "target_gltf": [
+    0.3,
+    1.1974,
+    6.0729
+   ],
+   "position_blender": [
+    -0.4448,
+    8.9271,
+    2.4292
+   ],
+   "rotation_quat_blender_wxyz": [
+    0.018241,
+    0.016807,
+    -0.677382,
+    -0.735213
+   ],
+   "rotation_quat_gltf_xyzw": [
+    -0.001015,
+    -0.998856,
+    -0.040893,
+    0.024783
+   ],
+   "lens_mm": 35.0,
+   "sensor_width_mm": 36
+  },
+  {
+   "frame": 5,
+   "t": 0.1667,
+   "position_gltf": [
+    -0.4431,
+    2.4222,
+    -8.9028
+   ],
+   "target_gltf": [
+    0.3,
+    1.1965,
+    6.0972
+   ],
+   "position_blender": [
+    -0.4431,
+    8.9028,
+    2.4222
+   ],
+   "rotation_quat_blender_wxyz": [
+    0.018196,
+    0.016771,
+    -0.67753,
+    -0.735078
+   ],
+   "rotation_quat_gltf_xyzw": [
+    -0.001007,
+    -0.998865,
+    -0.040693,
+    0.024725
+   ],
+   "lens_mm": 35.0,
+   "sensor_width_mm": 36
+  },
+  {
+   "frame": 6,
+   "t": 0.2083,
+   "position_gltf": [
+    -0.4413,
+    2.4153,
+    -8.8785
+   ],
+   "target_gltf": [
+    0.3,
+    1.1957,
+    6.1215
+   ],
+   "position_blender": [
+    -0.4413,
+    8.8785,
+    2.4153
+   ],
+   "rotation_quat_blender_wxyz": [
+    0.01815,
+    0.016736,
+    -0.677679,
+    -0.734943
+   ],
+   "rotation_quat_gltf_xyzw": [
+    -0.001,
+    -0.998875,
+    -0.040492,
+    0.024668
+   ],
+   "lens_mm": 35.0,
+   "sensor_width_mm": 36
+  },
+  {
+   "frame": 7,
+   "t": 0.25,
+   "position_gltf": [
+    -0.4396,
+    2.4083,
+    -8.8542
+   ],
+   "target_gltf": [
+    0.3,
+    1.1948,
+    6.1458
+   ],
+   "position_blender": [
+    -0.4396,
+    8.8542,
+    2.4083
+   ],
+   "rotation_quat_blender_wxyz": [
+    0.018104,
+    0.0167,
+    -0.677827,
+    -0.734808
+   ],
+   "rotation_quat_gltf_xyzw": [
+    -0.000993,
+    -0.998884,
+    -0.040292,
+    0.02461
+   ],
+   "lens_mm": 35.0,
+   "sensor_width_mm": 36
+  },
+  {
+   "frame": 8,
+   "t": 0.2917,
+   "position_gltf": [
+    -0.4378,
+    2.4014,
+    -8.8299
+   ],
+   "target_gltf": [
+    0.3,
+    1.1939,
+    6.1701
+   ],
+   "position_blender": [
+    -0.4378,
+    8.8299,
+    2.4014
+   ],
+   "rotation_quat_blender_wxyz": [
+    0.018058,
+    0.016665,
+    -0.677976,
+    -0.734673
+   ],
+   "rotation_quat_gltf_xyzw": [
+    -0.000985,
+    -0.998894,
+    -0.040091,
+    0.024553
+   ],
+   "lens_mm": 35.0,
+   "sensor_width_mm": 36
+  },
+  {
+   "frame": 9,
+   "t": 0.3333,
+   "position_gltf": [
+    -0.4361,
+    2.3944,
+    -8.8056
+   ],
+   "target_gltf": [
+    0.3,
+    1.1931,
+    6.1944
+   ],
+   "position_blender": [
+    -0.4361,
+    8.8056,
+    2.3944
+   ],
+   "rotation_quat_blender_wxyz": [
+    0.018013,
+    0.016629,
+    -0.678124,
+    -0.734538
+   ],
+   "rotation_quat_gltf_xyzw": [
+    -0.000978,
+    -0.998903,
+    -0.039891,
+    0.024495
+   ],
+   "lens_mm": 35.0,
+   "sensor_width_mm": 36
+  },
+  {
+   "frame": 10,
+   "t": 0.375,
+   "position_gltf": [
+    -0.4344,
+    2.3875,
+    -8.7812
+   ],
+   "target_gltf": [
+    0.3,
+    1.1922,
+    6.2188
+   ],
+   "position_blender": [
+    -0.4344,
+    8.7812,
+    2.3875
+   ],
+   "rotation_quat_blender_wxyz": [
+    0.017967,
+    0.016594,
+    -0.678273,
+    -0.734403
+   ],
+   "rotation_quat_gltf_xyzw": [
+    -0.000971,
+    -0.998913,
+    -0.03969,
+    0.024438
+   ],
+   "lens_mm": 35.0,
+   "sensor_width_mm": 36
+  },
+  {
+   "frame": 11,
+   "t": 0.4167,
+   "position_gltf": [
+    -0.4326,
+    2.3806,
+    -8.7569
+   ],
+   "target_gltf": [
+    0.3,
+    1.1913,
+    6.2431
+   ],
+   "position_blender": [
+    -0.4326,
+    8.7569,
+    2.3806
+   ],
+   "rotation_quat_blender_wxyz": [
+    0.017921,
+    0.016558,
+    -0.678421,
+    -0.734268
+   ],
+   "rotation_quat_gltf_xyzw": [
+    -0.000964,
+    -0.998922,
+    -0.03949,
+    0.02438
+   ],
+   "lens_mm": 35.0,
+   "sensor_width_mm": 36
+  },
+  {
+   "frame": 12,
+   "t": 0.4583,
+   "position_gltf": [
+    -0.4309,
+    2.3736,
+    -8.7326
+   ],
+   "target_gltf": [
+    0.3,
+    1.1905,
+    6.2674
+   ],
+   "position_blender": [
+    -0.4309,
+    8.7326,
+    2.3736
+   ],
+   "rotation_quat_blender_wxyz": [
+    0.017875,
+    0.016522,
+    -0.67857,
+    -0.734133
+   ],
+   "rotation_quat_gltf_xyzw": [
+    -0.000957,
+    -0.998931,
+    -0.039289,
+    0.024323
+   ],
+   "lens_mm": 35.0,
+   "sensor_width_mm": 36
+  },
+  {
+   "frame": 13,
+   "t": 0.5,
+   "position_gltf": [
+    -0.4292,
+    2.3667,
+    -8.7083
+   ],
+   "target_gltf": [
+    0.3,
+    1.1896,
+    6.2917
+   ],
+   "position_blender": [
+    -0.4292,
+    8.7083,
+    2.3667
+   ],
+   "rotation_quat_blender_wxyz": [
+    0.01783,
+    0.016487,
+    -0.678718,
+    -0.733997
+   ],
+   "rotation_quat_gltf_xyzw": [
+    -0.00095,
+    -0.998941,
+    -0.039088,
+    0.024265
+   ],
+   "lens_mm": 35.0,
+   "sensor_width_mm": 36
+  },
+  {
+   "frame": 14,
+   "t": 0.5417,
+   "position_gltf": [
+    -0.4274,
+    2.3597,
+    -8.684
+   ],
+   "target_gltf": [
+    0.3,
+    1.1887,
+    6.316
+   ],
+   "position_blender": [
+    -0.4274,
+    8.684,
+    2.3597
+   ],
+   "rotation_quat_blender_wxyz": [
+    0.017784,
+    0.016451,
+    -0.678866,
+    -0.733862
+   ],
+   "rotation_quat_gltf_xyzw": [
+    -0.000942,
+    -0.99895,
+    -0.038888,
+    0.024208
+   ],
+   "lens_mm": 35.0,
+   "sensor_width_mm": 36
+  },
+  {
+   "frame": 15,
+   "t": 0.5833,
+   "position_gltf": [
+    -0.4257,
+    2.3528,
+    -8.6597
+   ],
+   "target_gltf": [
+    0.3,
+    1.1878,
+    6.3403
+   ],
+   "position_blender": [
+    -0.4257,
+    8.6597,
+    2.3528
+   ],
+   "rotation_quat_blender_wxyz": [
+    0.017738,
+    0.016416,
+    -0.679015,
+    -0.733727
+   ],
+   "rotation_quat_gltf_xyzw": [
+    -0.000935,
+    -0.998959,
+    -0.038687,
+    0.024151
+   ],
+   "lens_mm": 35.0,
+   "sensor_width_mm": 36
+  },
+  {
+   "frame": 16,
+   "t": 0.625,
+   "position_gltf": [
+    -0.424,
+    2.3458,
+    -8.6354
+   ],
+   "target_gltf": [
+    0.3,
+    1.187,
+    6.3646
+   ],
+   "position_blender": [
+    -0.424,
+    8.6354,
+    2.3458
+   ],
+   "rotation_quat_blender_wxyz": [
+    0.017693,
+    0.01638,
+    -0.679163,
+    -0.733591
+   ],
+   "rotation_quat_gltf_xyzw": [
+    -0.000928,
+    -0.998968,
+    -0.038487,
+    0.024093
+   ],
+   "lens_mm": 35.0,
+   "sensor_width_mm": 36
+  },
+  {
+   "frame": 17,
+   "t": 0.6667,
+   "position_gltf": [
+    -0.4222,
+    2.3389,
+    -8.6111
+   ],
+   "target_gltf": [
+    0.3,
+    1.1861,
+    6.3889
+   ],
+   "position_blender": [
+    -0.4222,
+    8.6111,
+    2.3389
+   ],
+   "rotation_quat_blender_wxyz": [
+    0.017647,
+    0.016344,
+    -0.679311,
+    -0.733456
+   ],
+   "rotation_quat_gltf_xyzw": [
+    -0.000921,
+    -0.998977,
+    -0.038286,
+    0.024036
+   ],
+   "lens_mm": 35.0,
+   "sensor_width_mm": 36
+  },
+  {
+   "frame": 18,
+   "t": 0.7083,
+   "position_gltf": [
+    -0.4205,
+    2.3319,
+    -8.5868
+   ],
+   "target_gltf": [
+    0.3,
+    1.1852,
+    6.4132
+   ],
+   "position_blender": [
+    -0.4205,
+    8.5868,
+    2.3319
+   ],
+   "rotation_quat_blender_wxyz": [
+    0.017601,
+    0.016309,
+    -0.67946,
+    -0.73332
+   ],
+   "rotation_quat_gltf_xyzw": [
+    -0.000914,
+    -0.998986,
+    -0.038085,
+    0.023978
+   ],
+   "lens_mm": 35.0,
+   "sensor_width_mm": 36
+  },
+  {
+   "frame": 19,
+   "t": 0.75,
+   "position_gltf": [
+    -0.4188,
+    2.325,
+    -8.5625
+   ],
+   "target_gltf": [
+    0.3,
+    1.1844,
+    6.4375
+   ],
+   "position_blender": [
+    -0.4187,
+    8.5625,
+    2.325
+   ],
+   "rotation_quat_blender_wxyz": [
+    0.017556,
+    0.016273,
+    -0.679608,
+    -0.733185
+   ],
+   "rotation_quat_gltf_xyzw": [
+    -0.000907,
+    -0.998995,
+    -0.037885,
+    0.023921
+   ],
+   "lens_mm": 35.0,
+   "sensor_width_mm": 36
+  },
+  {
+   "frame": 20,
+   "t": 0.7917,
+   "position_gltf": [
+    -0.417,
+    2.3181,
+    -8.5382
+   ],
+   "target_gltf": [
+    0.3,
+    1.1835,
+    6.4618
+   ],
+   "position_blender": [
+    -0.417,
+    8.5382,
+    2.3181
+   ],
+   "rotation_quat_blender_wxyz": [
+    0.01751,
+    0.016237,
+    -0.679756,
+    -0.733049
+   ],
+   "rotation_quat_gltf_xyzw": [
+    -0.0009,
+    -0.999004,
+    -0.037684,
+    0.023863
+   ],
+   "lens_mm": 35.0,
+   "sensor_width_mm": 36
+  },
+  {
+   "frame": 21,
+   "t": 0.8333,
+   "position_gltf": [
+    -0.4153,
+    2.3111,
+    -8.5139
+   ],
+   "target_gltf": [
+    0.3,
+    1.1826,
+    6.4861
+   ],
+   "position_blender": [
+    -0.4153,
+    8.5139,
+    2.3111
+   ],
+   "rotation_quat_blender_wxyz": [
+    0.017465,
+    0.016201,
+    -0.679904,
+    -0.732913
+   ],
+   "rotation_quat_gltf_xyzw": [
+    -0.000893,
+    -0.999013,
+    -0.037483,
+    0.023806
+   ],
+   "lens_mm": 35.0,
+   "sensor_width_mm": 36
+  },
+  {
+   "frame": 22,
+   "t": 0.875,
+   "position_gltf": [
+    -0.4135,
+    2.3042,
+    -8.4896
+   ],
+   "target_gltf": [
+    0.3,
+    1.1818,
+    6.5104
+   ],
+   "position_blender": [
+    -0.4135,
+    8.4896,
+    2.3042
+   ],
+   "rotation_quat_blender_wxyz": [
+    0.017419,
+    0.016166,
+    -0.680053,
+    -0.732778
+   ],
+   "rotation_quat_gltf_xyzw": [
+    -0.000886,
+    -0.999022,
+    -0.037282,
+    0.023748
+   ],
+   "lens_mm": 35.0,
+   "sensor_width_mm": 36
+  },
+  {
+   "frame": 23,
+   "t": 0.9167,
+   "position_gltf": [
+    -0.4118,
+    2.2972,
+    -8.4653
+   ],
+   "target_gltf": [
+    0.3,
+    1.1809,
+    6.5347
+   ],
+   "position_blender": [
+    -0.4118,
+    8.4653,
+    2.2972
+   ],
+   "rotation_quat_blender_wxyz": [
+    0.017373,
+    0.01613,
+    -0.680201,
+    -0.732642
+   ],
+   "rotation_quat_gltf_xyzw": [
+    -0.000879,
+    -0.999031,
+    -0.037082,
+    0.023691
+   ],
+   "lens_mm": 35.0,
+   "sensor_width_mm": 36
+  },
+  {
+   "frame": 24,
+   "t": 0.9583,
+   "position_gltf": [
+    -0.4101,
+    2.2903,
+    -8.441
+   ],
+   "target_gltf": [
+    0.3,
+    1.18,
+    6.559
+   ],
+   "position_blender": [
+    -0.4101,
+    8.441,
+    2.2903
+   ],
+   "rotation_quat_blender_wxyz": [
+    0.017328,
+    0.016094,
+    -0.680349,
+    -0.732507
+   ],
+   "rotation_quat_gltf_xyzw": [
+    -0.000872,
+    -0.99904,
+    -0.036881,
+    0.023633
+   ],
+   "lens_mm": 35.0,
+   "sensor_width_mm": 36
+  },
+  {
+   "frame": 25,
+   "t": 1.0,
+   "position_gltf": [
+    -0.4083,
+    2.2833,
+    -8.4167
+   ],
+   "target_gltf": [
+    0.3,
+    1.1792,
+    6.5833
+   ],
+   "position_blender": [
+    -0.4083,
+    8.4167,
+    2.2833
+   ],
+   "rotation_quat_blender_wxyz": [
+    0.017282,
+    0.016058,
+    -0.680497,
+    -0.732371
+   ],
+   "rotation_quat_gltf_xyzw": [
+    -0.000866,
+    -0.999049,
+    -0.03668,
+    0.023576
+   ],
+   "lens_mm": 35.0,
+   "sensor_width_mm": 36
+  },
+  {
+   "frame": 26,
+   "t": 1.0417,
+   "position_gltf": [
+    -0.4066,
+    2.2764,
+    -8.3924
+   ],
+   "target_gltf": [
+    0.3,
+    1.1783,
+    6.6076
+   ],
+   "position_blender": [
+    -0.4066,
+    8.3924,
+    2.2764
+   ],
+   "rotation_quat_blender_wxyz": [
+    0.017237,
+    0.016023,
+    -0.680645,
+    -0.732235
+   ],
+   "rotation_quat_gltf_xyzw": [
+    -0.000859,
+    -0.999057,
+    -0.036479,
+    0.023518
+   ],
+   "lens_mm": 35.0,
+   "sensor_width_mm": 36
+  },
+  {
+   "frame": 27,
+   "t": 1.0833,
+   "position_gltf": [
+    -0.4049,
+    2.2694,
+    -8.3681
+   ],
+   "target_gltf": [
+    0.3,
+    1.1774,
+    6.6319
+   ],
+   "position_blender": [
+    -0.4049,
+    8.3681,
+    2.2694
+   ],
+   "rotation_quat_blender_wxyz": [
+    0.017191,
+    0.015987,
+    -0.680794,
+    -0.732099
+   ],
+   "rotation_quat_gltf_xyzw": [
+    -0.000852,
+    -0.999066,
+    -0.036278,
+    0.02346
+   ],
+   "lens_mm": 35.0,
+   "sensor_width_mm": 36
+  },
+  {
+   "frame": 28,
+   "t": 1.125,
+   "position_gltf": [
+    -0.4031,
+    2.2625,
+    -8.3438
+   ],
+   "target_gltf": [
+    0.3,
+    1.1766,
+    6.6562
+   ],
+   "position_blender": [
+    -0.4031,
+    8.3438,
+    2.2625
+   ],
+   "rotation_quat_blender_wxyz": [
+    0.017146,
+    0.015951,
+    -0.680942,
+    -0.731963
+   ],
+   "rotation_quat_gltf_xyzw": [
+    -0.000845,
+    -0.999074,
+    -0.036078,
+    0.023403
+   ],
+   "lens_mm": 35.0,
+   "sensor_width_mm": 36
+  },
+  {
+   "frame": 29,
+   "t": 1.1667,
+   "position_gltf": [
+    -0.4014,
+    2.2556,
+    -8.3194
+   ],
+   "target_gltf": [
+    0.3,
+    1.1757,
+    6.6806
+   ],
+   "position_blender": [
+    -0.4014,
+    8.3194,
+    2.2556
+   ],
+   "rotation_quat_blender_wxyz": [
+    0.0171,
+    0.015915,
+    -0.68109,
+    -0.731827
+   ],
+   "rotation_quat_gltf_xyzw": [
+    -0.000838,
+    -0.999083,
+    -0.035877,
+    0.023345
+   ],
+   "lens_mm": 35.0,
+   "sensor_width_mm": 36
+  },
+  {
+   "frame": 30,
+   "t": 1.2083,
+   "position_gltf": [
+    -0.3997,
+    2.2486,
+    -8.2951
+   ],
+   "target_gltf": [
+    0.3,
+    1.1748,
+    6.7049
+   ],
+   "position_blender": [
+    -0.3997,
+    8.2951,
+    2.2486
+   ],
+   "rotation_quat_blender_wxyz": [
+    0.017055,
+    0.015879,
+    -0.681238,
+    -0.731691
+   ],
+   "rotation_quat_gltf_xyzw": [
+    -0.000832,
+    -0.999092,
+    -0.035676,
+    0.023288
+   ],
+   "lens_mm": 35.0,
+   "sensor_width_mm": 36
+  },
+  {
+   "frame": 31,
+   "t": 1.25,
+   "position_gltf": [
+    -0.3979,
+    2.2417,
+    -8.2708
+   ],
+   "target_gltf": [
+    0.3,
+    1.174,
+    6.7292
+   ],
+   "position_blender": [
+    -0.3979,
+    8.2708,
+    2.2417
+   ],
+   "rotation_quat_blender_wxyz": [
+    0.01701,
+    0.015843,
+    -0.681386,
+    -0.731555
+   ],
+   "rotation_quat_gltf_xyzw": [
+    -0.000825,
+    -0.9991,
+    -0.035475,
+    0.02323
+   ],
+   "lens_mm": 35.0,
+   "sensor_width_mm": 36
+  },
+  {
+   "frame": 32,
+   "t": 1.2917,
+   "position_gltf": [
+    -0.3962,
+    2.2347,
+    -8.2465
+   ],
+   "target_gltf": [
+    0.3,
+    1.1731,
+    6.7535
+   ],
+   "position_blender": [
+    -0.3962,
+    8.2465,
+    2.2347
+   ],
+   "rotation_quat_blender_wxyz": [
+    0.016964,
+    0.015807,
+    -0.681534,
+    -0.731419
+   ],
+   "rotation_quat_gltf_xyzw": [
+    -0.000818,
+    -0.999109,
+    -0.035274,
+    0.023173
+   ],
+   "lens_mm": 35.0,
+   "sensor_width_mm": 36
+  },
+  {
+   "frame": 33,
+   "t": 1.3333,
+   "position_gltf": [
+    -0.3944,
+    2.2278,
+    -8.2222
+   ],
+   "target_gltf": [
+    0.3,
+    1.1722,
+    6.7778
+   ],
+   "position_blender": [
+    -0.3944,
+    8.2222,
+    2.2278
+   ],
+   "rotation_quat_blender_wxyz": [
+    0.016919,
+    0.015771,
+    -0.681682,
+    -0.731283
+   ],
+   "rotation_quat_gltf_xyzw": [
+    -0.000811,
+    -0.999117,
+    -0.035073,
+    0.023115
+   ],
+   "lens_mm": 35.0,
+   "sensor_width_mm": 36
+  },
+  {
+   "frame": 34,
+   "t": 1.375,
+   "position_gltf": [
+    -0.3927,
+    2.2208,
+    -8.1979
+   ],
+   "target_gltf": [
+    0.3,
+    1.1714,
+    6.8021
+   ],
+   "position_blender": [
+    -0.3927,
+    8.1979,
+    2.2208
+   ],
+   "rotation_quat_blender_wxyz": [
+    0.016873,
+    0.015735,
+    -0.68183,
+    -0.731147
+   ],
+   "rotation_quat_gltf_xyzw": [
+    -0.000805,
+    -0.999125,
+    -0.034872,
+    0.023058
+   ],
+   "lens_mm": 35.0,
+   "sensor_width_mm": 36
+  },
+  {
+   "frame": 35,
+   "t": 1.4167,
+   "position_gltf": [
+    -0.391,
+    2.2139,
+    -8.1736
+   ],
+   "target_gltf": [
+    0.3,
+    1.1705,
+    6.8264
+   ],
+   "position_blender": [
+    -0.391,
+    8.1736,
+    2.2139
+   ],
+   "rotation_quat_blender_wxyz": [
+    0.016828,
+    0.015699,
+    -0.681978,
+    -0.731011
+   ],
+   "rotation_quat_gltf_xyzw": [
+    -0.000798,
+    -0.999134,
+    -0.034671,
+    0.023
+   ],
+   "lens_mm": 35.0,
+   "sensor_width_mm": 36
+  },
+  {
+   "frame": 36,
+   "t": 1.4583,
+   "position_gltf": [
+    -0.3892,
+    2.2069,
+    -8.1493
+   ],
+   "target_gltf": [
+    0.3,
+    1.1696,
+    6.8507
+   ],
+   "position_blender": [
+    -0.3892,
+    8.1493,
+    2.2069
+   ],
+   "rotation_quat_blender_wxyz": [
+    0.016783,
+    0.015663,
+    -0.682126,
+    -0.730874
+   ],
+   "rotation_quat_gltf_xyzw": [
+    -0.000791,
+    -0.999142,
+    -0.03447,
+    0.022943
+   ],
+   "lens_mm": 35.0,
+   "sensor_width_mm": 36
+  },
+  {
+   "frame": 37,
+   "t": 1.5,
+   "position_gltf": [
+    -0.3875,
+    2.2,
+    -8.125
+   ],
+   "target_gltf": [
+    0.3,
+    1.1687,
+    6.875
+   ],
+   "position_blender": [
+    -0.3875,
+    8.125,
+    2.2
+   ],
+   "rotation_quat_blender_wxyz": [
+    0.016737,
+    0.015627,
+    -0.682274,
+    -0.730738
+   ],
+   "rotation_quat_gltf_xyzw": [
+    -0.000785,
+    -0.99915,
+    -0.034269,
+    0.022885
+   ],
+   "lens_mm": 35.0,
+   "sensor_width_mm": 36
+  },
+  {
+   "frame": 38,
+   "t": 1.5417,
+   "position_gltf": [
+    -0.3858,
+    2.1931,
+    -8.1007
+   ],
+   "target_gltf": [
+    0.3,
+    1.1679,
+    6.8993
+   ],
+   "position_blender": [
+    -0.3858,
+    8.1007,
+    2.1931
+   ],
+   "rotation_quat_blender_wxyz": [
+    0.016692,
+    0.015591,
+    -0.682422,
+    -0.730602
+   ],
+   "rotation_quat_gltf_xyzw": [
+    -0.000778,
+    -0.999159,
+    -0.034068,
+    0.022828
+   ],
+   "lens_mm": 35.0,
+   "sensor_width_mm": 36
+  },
+  {
+   "frame": 39,
+   "t": 1.5833,
+   "position_gltf": [
+    -0.384,
+    2.1861,
+    -8.0764
+   ],
+   "target_gltf": [
+    0.3,
+    1.167,
+    6.9236
+   ],
+   "position_blender": [
+    -0.384,
+    8.0764,
+    2.1861
+   ],
+   "rotation_quat_blender_wxyz": [
+    0.016647,
+    0.015555,
+    -0.68257,
+    -0.730465
+   ],
+   "rotation_quat_gltf_xyzw": [
+    -0.000772,
+    -0.999167,
+    -0.033867,
+    0.02277
+   ],
+   "lens_mm": 35.0,
+   "sensor_width_mm": 36
+  },
+  {
+   "frame": 40,
+   "t": 1.625,
+   "position_gltf": [
+    -0.3823,
+    2.1792,
+    -8.0521
+   ],
+   "target_gltf": [
+    0.3,
+    1.1661,
+    6.9479
+   ],
+   "position_blender": [
+    -0.3823,
+    8.0521,
+    2.1792
+   ],
+   "rotation_quat_blender_wxyz": [
+    0.016601,
+    0.015519,
+    -0.682718,
+    -0.730329
+   ],
+   "rotation_quat_gltf_xyzw": [
+    -0.000765,
+    -0.999175,
+    -0.033666,
+    0.022713
+   ],
+   "lens_mm": 35.0,
+   "sensor_width_mm": 36
+  },
+  {
+   "frame": 41,
+   "t": 1.6667,
+   "position_gltf": [
+    -0.3806,
+    2.1722,
+    -8.0278
+   ],
+   "target_gltf": [
+    0.3,
+    1.1653,
+    6.9722
+   ],
+   "position_blender": [
+    -0.3806,
+    8.0278,
+    2.1722
+   ],
+   "rotation_quat_blender_wxyz": [
+    0.016556,
+    0.015483,
+    -0.682865,
+    -0.730192
+   ],
+   "rotation_quat_gltf_xyzw": [
+    -0.000759,
+    -0.999183,
+    -0.033465,
+    0.022655
+   ],
+   "lens_mm": 35.0,
+   "sensor_width_mm": 36
+  },
+  {
+   "frame": 42,
+   "t": 1.7083,
+   "position_gltf": [
+    -0.3788,
+    2.1653,
+    -8.0035
+   ],
+   "target_gltf": [
+    0.3,
+    1.1644,
+    6.9965
+   ],
+   "position_blender": [
+    -0.3788,
+    8.0035,
+    2.1653
+   ],
+   "rotation_quat_blender_wxyz": [
+    0.016511,
+    0.015447,
+    -0.683013,
+    -0.730056
+   ],
+   "rotation_quat_gltf_xyzw": [
+    -0.000752,
+    -0.999191,
+    -0.033264,
+    0.022597
+   ],
+   "lens_mm": 35.0,
+   "sensor_width_mm": 36
+  },
+  {
+   "frame": 43,
+   "t": 1.75,
+   "position_gltf": [
+    -0.3771,
+    2.1583,
+    -7.9792
+   ],
+   "target_gltf": [
+    0.3,
+    1.1635,
+    7.0208
+   ],
+   "position_blender": [
+    -0.3771,
+    7.9792,
+    2.1583
+   ],
+   "rotation_quat_blender_wxyz": [
+    0.016465,
+    0.015411,
+    -0.683161,
+    -0.729919
+   ],
+   "rotation_quat_gltf_xyzw": [
+    -0.000746,
+    -0.999199,
+    -0.033063,
+    0.02254
+   ],
+   "lens_mm": 35.0,
+   "sensor_width_mm": 36
+  },
+  {
+   "frame": 44,
+   "t": 1.7917,
+   "position_gltf": [
+    -0.3753,
+    2.1514,
+    -7.9549
+   ],
+   "target_gltf": [
+    0.3,
+    1.1627,
+    7.0451
+   ],
+   "position_blender": [
+    -0.3753,
+    7.9549,
+    2.1514
+   ],
+   "rotation_quat_blender_wxyz": [
+    0.01642,
+    0.015375,
+    -0.683309,
+    -0.729783
+   ],
+   "rotation_quat_gltf_xyzw": [
+    -0.000739,
+    -0.999207,
+    -0.032862,
+    0.022482
+   ],
+   "lens_mm": 35.0,
+   "sensor_width_mm": 36
+  },
+  {
+   "frame": 45,
+   "t": 1.8333,
+   "position_gltf": [
+    -0.3736,
+    2.1444,
+    -7.9306
+   ],
+   "target_gltf": [
+    0.3,
+    1.1618,
+    7.0694
+   ],
+   "position_blender": [
+    -0.3736,
+    7.9306,
+    2.1444
+   ],
+   "rotation_quat_blender_wxyz": [
+    0.016375,
+    0.015338,
+    -0.683457,
+    -0.729646
+   ],
+   "rotation_quat_gltf_xyzw": [
+    -0.000733,
+    -0.999215,
+    -0.032661,
+    0.022425
+   ],
+   "lens_mm": 35.0,
+   "sensor_width_mm": 36
+  },
+  {
+   "frame": 46,
+   "t": 1.875,
+   "position_gltf": [
+    -0.3719,
+    2.1375,
+    -7.9062
+   ],
+   "target_gltf": [
+    0.3,
+    1.1609,
+    7.0938
+   ],
+   "position_blender": [
+    -0.3719,
+    7.9062,
+    2.1375
+   ],
+   "rotation_quat_blender_wxyz": [
+    0.01633,
+    0.015302,
+    -0.683604,
+    -0.72951
+   ],
+   "rotation_quat_gltf_xyzw": [
+    -0.000727,
+    -0.999222,
+    -0.03246,
+    0.022367
+   ],
+   "lens_mm": 35.0,
+   "sensor_width_mm": 36
+  },
+  {
+   "frame": 47,
+   "t": 1.9167,
+   "position_gltf": [
+    -0.3701,
+    2.1306,
+    -7.8819
+   ],
+   "target_gltf": [
+    0.3,
+    1.1601,
+    7.1181
+   ],
+   "position_blender": [
+    -0.3701,
+    7.8819,
+    2.1306
+   ],
+   "rotation_quat_blender_wxyz": [
+    0.016285,
+    0.015266,
+    -0.683752,
+    -0.729373
+   ],
+   "rotation_quat_gltf_xyzw": [
+    -0.00072,
+    -0.99923,
+    -0.032259,
+    0.02231
+   ],
+   "lens_mm": 35.0,
+   "sensor_width_mm": 36
+  },
+  {
+   "frame": 48,
+   "t": 1.9583,
+   "position_gltf": [
+    -0.3684,
+    2.1236,
+    -7.8576
+   ],
+   "target_gltf": [
+    0.3,
+    1.1592,
+    7.1424
+   ],
+   "position_blender": [
+    -0.3684,
+    7.8576,
+    2.1236
+   ],
+   "rotation_quat_blender_wxyz": [
+    0.016239,
+    0.01523,
+    -0.6839,
+    -0.729236
+   ],
+   "rotation_quat_gltf_xyzw": [
+    -0.000714,
+    -0.999238,
+    -0.032058,
+    0.022252
+   ],
+   "lens_mm": 35.0,
+   "sensor_width_mm": 36
+  },
+  {
+   "frame": 49,
+   "t": 2.0,
+   "position_gltf": [
+    -0.3667,
+    2.1167,
+    -7.8333
+   ],
+   "target_gltf": [
+    0.3,
+    1.1583,
+    7.1667
+   ],
+   "position_blender": [
+    -0.3667,
+    7.8333,
+    2.1167
+   ],
+   "rotation_quat_blender_wxyz": [
+    0.016194,
+    0.015194,
+    -0.684047,
+    -0.729099
+   ],
+   "rotation_quat_gltf_xyzw": [
+    -0.000708,
+    -0.999246,
+    -0.031857,
+    0.022195
+   ],
+   "lens_mm": 35.0,
+   "sensor_width_mm": 36
+  },
+  {
+   "frame": 50,
+   "t": 2.0417,
+   "position_gltf": [
+    -0.3649,
+    2.1097,
+    -7.809
+   ],
+   "target_gltf": [
+    0.3,
+    1.1575,
+    7.191
+   ],
+   "position_blender": [
+    -0.3649,
+    7.809,
+    2.1097
+   ],
+   "rotation_quat_blender_wxyz": [
+    0.016149,
+    0.015157,
+    -0.684195,
+    -0.728962
+   ],
+   "rotation_quat_gltf_xyzw": [
+    -0.000701,
+    -0.999253,
+    -0.031655,
+    0.022137
+   ],
+   "lens_mm": 35.0,
+   "sensor_width_mm": 36
+  },
+  {
+   "frame": 51,
+   "t": 2.0833,
+   "position_gltf": [
+    -0.3632,
+    2.1028,
+    -7.7847
+   ],
+   "target_gltf": [
+    0.3,
+    1.1566,
+    7.2153
+   ],
+   "position_blender": [
+    -0.3632,
+    7.7847,
+    2.1028
+   ],
+   "rotation_quat_blender_wxyz": [
+    0.016104,
+    0.015121,
+    -0.684343,
+    -0.728826
+   ],
+   "rotation_quat_gltf_xyzw": [
+    -0.000695,
+    -0.999261,
+    -0.031454,
+    0.022079
+   ],
+   "lens_mm": 35.0,
+   "sensor_width_mm": 36
+  },
+  {
+   "frame": 52,
+   "t": 2.125,
+   "position_gltf": [
+    -0.3615,
+    2.0958,
+    -7.7604
+   ],
+   "target_gltf": [
+    0.3,
+    1.1557,
+    7.2396
+   ],
+   "position_blender": [
+    -0.3615,
+    7.7604,
+    2.0958
+   ],
+   "rotation_quat_blender_wxyz": [
+    0.016059,
+    0.015085,
+    -0.68449,
+    -0.728689
+   ],
+   "rotation_quat_gltf_xyzw": [
+    -0.000689,
+    -0.999269,
+    -0.031253,
+    0.022022
+   ],
+   "lens_mm": 35.0,
+   "sensor_width_mm": 36
+  },
+  {
+   "frame": 53,
+   "t": 2.1667,
+   "position_gltf": [
+    -0.3597,
+    2.0889,
+    -7.7361
+   ],
+   "target_gltf": [
+    0.3,
+    1.1549,
+    7.2639
+   ],
+   "position_blender": [
+    -0.3597,
+    7.7361,
+    2.0889
+   ],
+   "rotation_quat_blender_wxyz": [
+    0.016014,
+    0.015048,
+    -0.684638,
+    -0.728552
+   ],
+   "rotation_quat_gltf_xyzw": [
+    -0.000682,
+    -0.999276,
+    -0.031052,
+    0.021964
+   ],
+   "lens_mm": 35.0,
+   "sensor_width_mm": 36
+  },
+  {
+   "frame": 54,
+   "t": 2.2083,
+   "position_gltf": [
+    -0.358,
+    2.0819,
+    -7.7118
+   ],
+   "target_gltf": [
+    0.3,
+    1.154,
+    7.2882
+   ],
+   "position_blender": [
+    -0.358,
+    7.7118,
+    2.0819
+   ],
+   "rotation_quat_blender_wxyz": [
+    0.015969,
+    0.015012,
+    -0.684786,
+    -0.728415
+   ],
+   "rotation_quat_gltf_xyzw": [
+    -0.000676,
+    -0.999284,
+    -0.03085,
+    0.021907
+   ],
+   "lens_mm": 35.0,
+   "sensor_width_mm": 36
+  },
+  {
+   "frame": 55,
+   "t": 2.25,
+   "position_gltf": [
+    -0.3562,
+    2.075,
+    -7.6875
+   ],
+   "target_gltf": [
+    0.3,
+    1.1531,
+    7.3125
+   ],
+   "position_blender": [
+    -0.3562,
+    7.6875,
+    2.075
+   ],
+   "rotation_quat_blender_wxyz": [
+    0.015923,
+    0.014976,
+    -0.684933,
+    -0.728278
+   ],
+   "rotation_quat_gltf_xyzw": [
+    -0.00067,
+    -0.999291,
+    -0.030649,
+    0.021849
+   ],
+   "lens_mm": 35.0,
+   "sensor_width_mm": 36
+  },
+  {
+   "frame": 56,
+   "t": 2.2917,
+   "position_gltf": [
+    -0.3545,
+    2.0681,
+    -7.6632
+   ],
+   "target_gltf": [
+    0.3,
+    1.1523,
+    7.3368
+   ],
+   "position_blender": [
+    -0.3545,
+    7.6632,
+    2.0681
+   ],
+   "rotation_quat_blender_wxyz": [
+    0.015878,
+    0.014939,
+    -0.685081,
+    -0.728141
+   ],
+   "rotation_quat_gltf_xyzw": [
+    -0.000664,
+    -0.999298,
+    -0.030448,
+    0.021791
+   ],
+   "lens_mm": 35.0,
+   "sensor_width_mm": 36
+  },
+  {
+   "frame": 57,
+   "t": 2.3333,
+   "position_gltf": [
+    -0.3528,
+    2.0611,
+    -7.6389
+   ],
+   "target_gltf": [
+    0.3,
+    1.1514,
+    7.3611
+   ],
+   "position_blender": [
+    -0.3528,
+    7.6389,
+    2.0611
+   ],
+   "rotation_quat_blender_wxyz": [
+    0.015833,
+    0.014903,
+    -0.685228,
+    -0.728004
+   ],
+   "rotation_quat_gltf_xyzw": [
+    -0.000658,
+    -0.999306,
+    -0.030247,
+    0.021734
+   ],
+   "lens_mm": 35.0,
+   "sensor_width_mm": 36
+  },
+  {
+   "frame": 58,
+   "t": 2.375,
+   "position_gltf": [
+    -0.351,
+    2.0542,
+    -7.6146
+   ],
+   "target_gltf": [
+    0.3,
+    1.1505,
+    7.3854
+   ],
+   "position_blender": [
+    -0.351,
+    7.6146,
+    2.0542
+   ],
+   "rotation_quat_blender_wxyz": [
+    0.015788,
+    0.014867,
+    -0.685376,
+    -0.727866
+   ],
+   "rotation_quat_gltf_xyzw": [
+    -0.000652,
+    -0.999313,
+    -0.030045,
+    0.021676
+   ],
+   "lens_mm": 35.0,
+   "sensor_width_mm": 36
+  },
+  {
+   "frame": 59,
+   "t": 2.4167,
+   "position_gltf": [
+    -0.3498,
+    2.05,
+    -7.5917
+   ],
+   "target_gltf": [
+    0.3,
+    1.1498,
+    7.4074
+   ],
+   "position_blender": [
+    -0.3498,
+    7.5917,
+    2.05
+   ],
+   "rotation_quat_blender_wxyz": [
+    0.015757,
+    0.01484,
+    -0.685458,
+    -0.727791
+   ],
+   "rotation_quat_gltf_xyzw": [
+    -0.000648,
+    -0.999318,
+    -0.029934,
+    0.021635
+   ],
+   "lens_mm": 35.0,
+   "sensor_width_mm": 36
+  },
+  {
+   "frame": 60,
+   "t": 2.4583,
+   "position_gltf": [
+    -0.3492,
+    2.05,
+    -7.5708
+   ],
+   "target_gltf": [
+    0.3,
+    1.1492,
+    7.4259
+   ],
+   "position_blender": [
+    -0.3492,
+    7.5708,
+    2.05
+   ],
+   "rotation_quat_blender_wxyz": [
+    0.015746,
+    0.014829,
+    -0.68544,
+    -0.727807
+   ],
+   "rotation_quat_gltf_xyzw": [
+    -0.000648,
+    -0.999317,
+    -0.029958,
+    0.021619
+   ],
+   "lens_mm": 35.0,
+   "sensor_width_mm": 36
+  },
+  {
+   "frame": 61,
+   "t": 2.5,
+   "position_gltf": [
+    -0.3486,
+    2.05,
+    -7.55
+   ],
+   "target_gltf": [
+    0.3,
+    1.1486,
+    7.4444
+   ],
+   "position_blender": [
+    -0.3486,
+    7.55,
+    2.05
+   ],
+   "rotation_quat_blender_wxyz": [
+    0.015734,
+    0.014818,
+    -0.685423,
+    -0.727824
+   ],
+   "rotation_quat_gltf_xyzw": [
+    -0.000648,
+    -0.999317,
+    -0.029982,
+    0.021604
+   ],
+   "lens_mm": 35.0,
+   "sensor_width_mm": 36
+  },
+  {
+   "frame": 62,
+   "t": 2.5417,
+   "position_gltf": [
+    -0.348,
+    2.05,
+    -7.5292
+   ],
+   "target_gltf": [
+    0.3,
+    1.148,
+    7.463
+   ],
+   "position_blender": [
+    -0.348,
+    7.5292,
+    2.05
+   ],
+   "rotation_quat_blender_wxyz": [
+    0.015723,
+    0.014806,
+    -0.685406,
+    -0.727841
+   ],
+   "rotation_quat_gltf_xyzw": [
+    -0.000648,
+    -0.999316,
+    -0.030006,
+    0.021588
+   ],
+   "lens_mm": 35.0,
+   "sensor_width_mm": 36
+  },
+  {
+   "frame": 63,
+   "t": 2.5833,
+   "position_gltf": [
+    -0.3475,
+    2.05,
+    -7.5083
+   ],
+   "target_gltf": [
+    0.3,
+    1.1475,
+    7.4815
+   ],
+   "position_blender": [
+    -0.3475,
+    7.5083,
+    2.05
+   ],
+   "rotation_quat_blender_wxyz": [
+    0.015712,
+    0.014795,
+    -0.685389,
+    -0.727857
+   ],
+   "rotation_quat_gltf_xyzw": [
+    -0.000648,
+    -0.999316,
+    -0.03003,
+    0.021572
+   ],
+   "lens_mm": 35.0,
+   "sensor_width_mm": 36
+  },
+  {
+   "frame": 64,
+   "t": 2.625,
+   "position_gltf": [
+    -0.3469,
+    2.05,
+    -7.4875
+   ],
+   "target_gltf": [
+    0.3,
+    1.1469,
+    7.5
+   ],
+   "position_blender": [
+    -0.3469,
+    7.4875,
+    2.05
+   ],
+   "rotation_quat_blender_wxyz": [
+    0.015701,
+    0.014784,
+    -0.685372,
+    -0.727874
+   ],
+   "rotation_quat_gltf_xyzw": [
+    -0.000648,
+    -0.999316,
+    -0.030053,
+    0.021556
+   ],
+   "lens_mm": 35.0,
+   "sensor_width_mm": 36
+  },
+  {
+   "frame": 65,
+   "t": 2.6667,
+   "position_gltf": [
+    -0.3463,
+    2.05,
+    -7.4667
+   ],
+   "target_gltf": [
+    0.3,
+    1.1463,
+    7.5185
+   ],
+   "position_blender": [
+    -0.3463,
+    7.4667,
+    2.05
+   ],
+   "rotation_quat_blender_wxyz": [
+    0.015689,
+    0.014772,
+    -0.685355,
+    -0.72789
+   ],
+   "rotation_quat_gltf_xyzw": [
+    -0.000648,
+    -0.999315,
+    -0.030077,
+    0.02154
+   ],
+   "lens_mm": 35.0,
+   "sensor_width_mm": 36
+  },
+  {
+   "frame": 66,
+   "t": 2.7083,
+   "position_gltf": [
+    -0.3457,
+    2.05,
+    -7.4458
+   ],
+   "target_gltf": [
+    0.3,
+    1.1457,
+    7.537
+   ],
+   "position_blender": [
+    -0.3457,
+    7.4458,
+    2.05
+   ],
+   "rotation_quat_blender_wxyz": [
+    0.015678,
+    0.014761,
+    -0.685338,
+    -0.727907
+   ],
+   "rotation_quat_gltf_xyzw": [
+    -0.000648,
+    -0.999315,
+    -0.030101,
+    0.021524
+   ],
+   "lens_mm": 35.0,
+   "sensor_width_mm": 36
+  },
+  {
+   "frame": 67,
+   "t": 2.75,
+   "position_gltf": [
+    -0.3451,
+    2.05,
+    -7.425
+   ],
+   "target_gltf": [
+    0.3,
+    1.1451,
+    7.5556
+   ],
+   "position_blender": [
+    -0.3451,
+    7.425,
+    2.05
+   ],
+   "rotation_quat_blender_wxyz": [
+    0.015667,
+    0.01475,
+    -0.68532,
+    -0.727924
+   ],
+   "rotation_quat_gltf_xyzw": [
+    -0.000648,
+    -0.999314,
+    -0.030125,
+    0.021508
+   ],
+   "lens_mm": 35.0,
+   "sensor_width_mm": 36
+  },
+  {
+   "frame": 68,
+   "t": 2.7917,
+   "position_gltf": [
+    -0.3446,
+    2.05,
+    -7.4042
+   ],
+   "target_gltf": [
+    0.3,
+    1.1446,
+    7.5741
+   ],
+   "position_blender": [
+    -0.3446,
+    7.4042,
+    2.05
+   ],
+   "rotation_quat_blender_wxyz": [
+    0.015656,
+    0.014739,
+    -0.685303,
+    -0.72794
+   ],
+   "rotation_quat_gltf_xyzw": [
+    -0.000648,
+    -0.999314,
+    -0.030149,
+    0.021492
+   ],
+   "lens_mm": 35.0,
+   "sensor_width_mm": 36
+  },
+  {
+   "frame": 69,
+   "t": 2.8333,
+   "position_gltf": [
+    -0.344,
+    2.05,
+    -7.3833
+   ],
+   "target_gltf": [
+    0.3,
+    1.144,
+    7.5926
+   ],
+   "position_blender": [
+    -0.344,
+    7.3833,
+    2.05
+   ],
+   "rotation_quat_blender_wxyz": [
+    0.015644,
+    0.014727,
+    -0.685286,
+    -0.727957
+   ],
+   "rotation_quat_gltf_xyzw": [
+    -0.000648,
+    -0.999314,
+    -0.030173,
+    0.021476
+   ],
+   "lens_mm": 35.0,
+   "sensor_width_mm": 36
+  },
+  {
+   "frame": 70,
+   "t": 2.875,
+   "position_gltf": [
+    -0.3434,
+    2.05,
+    -7.3625
+   ],
+   "target_gltf": [
+    0.3,
+    1.1434,
+    7.6111
+   ],
+   "position_blender": [
+    -0.3434,
+    7.3625,
+    2.05
+   ],
+   "rotation_quat_blender_wxyz": [
+    0.015633,
+    0.014716,
+    -0.685269,
+    -0.727974
+   ],
+   "rotation_quat_gltf_xyzw": [
+    -0.000648,
+    -0.999313,
+    -0.030197,
+    0.02146
+   ],
+   "lens_mm": 35.0,
+   "sensor_width_mm": 36
+  },
+  {
+   "frame": 71,
+   "t": 2.9167,
+   "position_gltf": [
+    -0.3428,
+    2.05,
+    -7.3417
+   ],
+   "target_gltf": [
+    0.3,
+    1.1428,
+    7.6296
+   ],
+   "position_blender": [
+    -0.3428,
+    7.3417,
+    2.05
+   ],
+   "rotation_quat_blender_wxyz": [
+    0.015622,
+    0.014705,
+    -0.685252,
+    -0.72799
+   ],
+   "rotation_quat_gltf_xyzw": [
+    -0.000648,
+    -0.999313,
+    -0.030221,
+    0.021444
+   ],
+   "lens_mm": 35.0,
+   "sensor_width_mm": 36
+  },
+  {
+   "frame": 72,
+   "t": 2.9583,
+   "position_gltf": [
+    -0.3422,
+    2.05,
+    -7.3208
+   ],
+   "target_gltf": [
+    0.3,
+    1.1422,
+    7.6481
+   ],
+   "position_blender": [
+    -0.3422,
+    7.3208,
+    2.05
+   ],
+   "rotation_quat_blender_wxyz": [
+    0.01561,
+    0.014693,
+    -0.685234,
+    -0.728007
+   ],
+   "rotation_quat_gltf_xyzw": [
+    -0.000649,
+    -0.999313,
+    -0.030245,
+    0.021428
+   ],
+   "lens_mm": 35.0,
+   "sensor_width_mm": 36
+  },
+  {
+   "frame": 73,
+   "t": 3.0,
+   "position_gltf": [
+    -0.3417,
+    2.05,
+    -7.3
+   ],
+   "target_gltf": [
+    0.3,
+    1.1417,
+    7.6667
+   ],
+   "position_blender": [
+    -0.3417,
+    7.3,
+    2.05
+   ],
+   "rotation_quat_blender_wxyz": [
+    0.015599,
+    0.014682,
+    -0.685217,
+    -0.728024
+   ],
+   "rotation_quat_gltf_xyzw": [
+    -0.000649,
+    -0.999312,
+    -0.030269,
+    0.021412
+   ],
+   "lens_mm": 35.0,
+   "sensor_width_mm": 36
+  },
+  {
+   "frame": 74,
+   "t": 3.0417,
+   "position_gltf": [
+    -0.3411,
+    2.05,
+    -7.2792
+   ],
+   "target_gltf": [
+    0.3,
+    1.1411,
+    7.6852
+   ],
+   "position_blender": [
+    -0.3411,
+    7.2792,
+    2.05
+   ],
+   "rotation_quat_blender_wxyz": [
+    0.015588,
+    0.014671,
+    -0.6852,
+    -0.72804
+   ],
+   "rotation_quat_gltf_xyzw": [
+    -0.000649,
+    -0.999312,
+    -0.030293,
+    0.021396
+   ],
+   "lens_mm": 35.0,
+   "sensor_width_mm": 36
+  },
+  {
+   "frame": 75,
+   "t": 3.0833,
+   "position_gltf": [
+    -0.3405,
+    2.05,
+    -7.2583
+   ],
+   "target_gltf": [
+    0.3,
+    1.1405,
+    7.7037
+   ],
+   "position_blender": [
+    -0.3405,
+    7.2583,
+    2.05
+   ],
+   "rotation_quat_blender_wxyz": [
+    0.015577,
+    0.014659,
+    -0.685183,
+    -0.728057
+   ],
+   "rotation_quat_gltf_xyzw": [
+    -0.000649,
+    -0.999311,
+    -0.030317,
+    0.02138
+   ],
+   "lens_mm": 35.0,
+   "sensor_width_mm": 36
+  },
+  {
+   "frame": 76,
+   "t": 3.125,
+   "position_gltf": [
+    -0.3399,
+    2.05,
+    -7.2375
+   ],
+   "target_gltf": [
+    0.3,
+    1.1399,
+    7.7222
+   ],
+   "position_blender": [
+    -0.3399,
+    7.2375,
+    2.05
+   ],
+   "rotation_quat_blender_wxyz": [
+    0.015565,
+    0.014648,
+    -0.685166,
+    -0.728074
+   ],
+   "rotation_quat_gltf_xyzw": [
+    -0.000649,
+    -0.999311,
+    -0.030341,
+    0.021364
+   ],
+   "lens_mm": 35.0,
+   "sensor_width_mm": 36
+  },
+  {
+   "frame": 77,
+   "t": 3.1667,
+   "position_gltf": [
+    -0.3394,
+    2.05,
+    -7.2167
+   ],
+   "target_gltf": [
+    0.3,
+    1.1394,
+    7.7407
+   ],
+   "position_blender": [
+    -0.3394,
+    7.2167,
+    2.05
+   ],
+   "rotation_quat_blender_wxyz": [
+    0.015554,
+    0.014637,
+    -0.685148,
+    -0.72809
+   ],
+   "rotation_quat_gltf_xyzw": [
+    -0.000649,
+    -0.999311,
+    -0.030365,
+    0.021348
+   ],
+   "lens_mm": 35.0,
+   "sensor_width_mm": 36
+  },
+  {
+   "frame": 78,
+   "t": 3.2083,
+   "position_gltf": [
+    -0.3388,
+    2.05,
+    -7.1958
+   ],
+   "target_gltf": [
+    0.3,
+    1.1388,
+    7.7593
+   ],
+   "position_blender": [
+    -0.3388,
+    7.1958,
+    2.05
+   ],
+   "rotation_quat_blender_wxyz": [
+    0.015543,
+    0.014625,
+    -0.685131,
+    -0.728107
+   ],
+   "rotation_quat_gltf_xyzw": [
+    -0.000649,
+    -0.99931,
+    -0.030389,
+    0.021332
+   ],
+   "lens_mm": 35.0,
+   "sensor_width_mm": 36
+  },
+  {
+   "frame": 79,
+   "t": 3.25,
+   "position_gltf": [
+    -0.3382,
+    2.05,
+    -7.175
+   ],
+   "target_gltf": [
+    0.3,
+    1.1382,
+    7.7778
+   ],
+   "position_blender": [
+    -0.3382,
+    7.175,
+    2.05
+   ],
+   "rotation_quat_blender_wxyz": [
+    0.015531,
+    0.014614,
+    -0.685114,
+    -0.728124
+   ],
+   "rotation_quat_gltf_xyzw": [
+    -0.000649,
+    -0.99931,
+    -0.030413,
+    0.021316
+   ],
+   "lens_mm": 35.0,
+   "sensor_width_mm": 36
+  },
+  {
+   "frame": 80,
+   "t": 3.2917,
+   "position_gltf": [
+    -0.3376,
+    2.05,
+    -7.1542
+   ],
+   "target_gltf": [
+    0.3,
+    1.1376,
+    7.7963
+   ],
+   "position_blender": [
+    -0.3376,
+    7.1542,
+    2.05
+   ],
+   "rotation_quat_blender_wxyz": [
+    0.01552,
+    0.014603,
+    -0.685097,
+    -0.72814
+   ],
+   "rotation_quat_gltf_xyzw": [
+    -0.000649,
+    -0.999309,
+    -0.030437,
+    0.0213
+   ],
+   "lens_mm": 35.0,
+   "sensor_width_mm": 36
+  },
+  {
+   "frame": 81,
+   "t": 3.3333,
+   "position_gltf": [
+    -0.337,
+    2.05,
+    -7.1333
+   ],
+   "target_gltf": [
+    0.3,
+    1.137,
+    7.8148
+   ],
+   "position_blender": [
+    -0.337,
+    7.1333,
+    2.05
+   ],
+   "rotation_quat_blender_wxyz": [
+    0.015509,
+    0.014591,
+    -0.685079,
+    -0.728157
+   ],
+   "rotation_quat_gltf_xyzw": [
+    -0.000649,
+    -0.999309,
+    -0.030461,
+    0.021284
+   ],
+   "lens_mm": 35.0,
+   "sensor_width_mm": 36
+  },
+  {
+   "frame": 82,
+   "t": 3.375,
+   "position_gltf": [
+    -0.3365,
+    2.05,
+    -7.1125
+   ],
+   "target_gltf": [
+    0.3,
+    1.1365,
+    7.8333
+   ],
+   "position_blender": [
+    -0.3365,
+    7.1125,
+    2.05
+   ],
+   "rotation_quat_blender_wxyz": [
+    0.015497,
+    0.01458,
+    -0.685062,
+    -0.728174
+   ],
+   "rotation_quat_gltf_xyzw": [
+    -0.000649,
+    -0.999309,
+    -0.030485,
+    0.021268
+   ],
+   "lens_mm": 35.0,
+   "sensor_width_mm": 36
+  },
+  {
+   "frame": 83,
+   "t": 3.4167,
+   "position_gltf": [
+    -0.3359,
+    2.05,
+    -7.0917
+   ],
+   "target_gltf": [
+    0.3,
+    1.1359,
+    7.8519
+   ],
+   "position_blender": [
+    -0.3359,
+    7.0917,
+    2.05
+   ],
+   "rotation_quat_blender_wxyz": [
+    0.015486,
+    0.014568,
+    -0.685045,
+    -0.728191
+   ],
+   "rotation_quat_gltf_xyzw": [
+    -0.000649,
+    -0.999308,
+    -0.030509,
+    0.021252
+   ],
+   "lens_mm": 35.0,
+   "sensor_width_mm": 36
+  },
+  {
+   "frame": 84,
+   "t": 3.4583,
+   "position_gltf": [
+    -0.3353,
+    2.05,
+    -7.0708
+   ],
+   "target_gltf": [
+    0.3,
+    1.1353,
+    7.8704
+   ],
+   "position_blender": [
+    -0.3353,
+    7.0708,
+    2.05
+   ],
+   "rotation_quat_blender_wxyz": [
+    0.015475,
+    0.014557,
+    -0.685028,
+    -0.728207
+   ],
+   "rotation_quat_gltf_xyzw": [
+    -0.000649,
+    -0.999308,
+    -0.030533,
+    0.021236
+   ],
+   "lens_mm": 35.0,
+   "sensor_width_mm": 36
+  },
+  {
+   "frame": 85,
+   "t": 3.5,
+   "position_gltf": [
+    -0.3347,
+    2.05,
+    -7.05
+   ],
+   "target_gltf": [
+    0.3,
+    1.1347,
+    7.8889
+   ],
+   "position_blender": [
+    -0.3347,
+    7.05,
+    2.05
+   ],
+   "rotation_quat_blender_wxyz": [
+    0.015463,
+    0.014546,
+    -0.68501,
+    -0.728224
+   ],
+   "rotation_quat_gltf_xyzw": [
+    -0.000649,
+    -0.999307,
+    -0.030557,
+    0.02122
+   ],
+   "lens_mm": 35.0,
+   "sensor_width_mm": 36
+  },
+  {
+   "frame": 86,
+   "t": 3.5417,
+   "position_gltf": [
+    -0.3341,
+    2.05,
+    -7.0292
+   ],
+   "target_gltf": [
+    0.3,
+    1.1341,
+    7.9074
+   ],
+   "position_blender": [
+    -0.3341,
+    7.0292,
+    2.05
+   ],
+   "rotation_quat_blender_wxyz": [
+    0.015452,
+    0.014534,
+    -0.684993,
+    -0.728241
+   ],
+   "rotation_quat_gltf_xyzw": [
+    -0.000649,
+    -0.999307,
+    -0.030581,
+    0.021204
+   ],
+   "lens_mm": 35.0,
+   "sensor_width_mm": 36
+  },
+  {
+   "frame": 87,
+   "t": 3.5833,
+   "position_gltf": [
+    -0.3336,
+    2.05,
+    -7.0083
+   ],
+   "target_gltf": [
+    0.3,
+    1.1336,
+    7.9259
+   ],
+   "position_blender": [
+    -0.3336,
+    7.0083,
+    2.05
+   ],
+   "rotation_quat_blender_wxyz": [
+    0.015441,
+    0.014523,
+    -0.684976,
+    -0.728257
+   ],
+   "rotation_quat_gltf_xyzw": [
+    -0.000649,
+    -0.999307,
+    -0.030605,
+    0.021188
+   ],
+   "lens_mm": 35.0,
+   "sensor_width_mm": 36
+  },
+  {
+   "frame": 88,
+   "t": 3.625,
+   "position_gltf": [
+    -0.333,
+    2.05,
+    -6.9875
+   ],
+   "target_gltf": [
+    0.3,
+    1.133,
+    7.9444
+   ],
+   "position_blender": [
+    -0.333,
+    6.9875,
+    2.05
+   ],
+   "rotation_quat_blender_wxyz": [
+    0.015429,
+    0.014512,
+    -0.684958,
+    -0.728274
+   ],
+   "rotation_quat_gltf_xyzw": [
+    -0.000649,
+    -0.999306,
+    -0.030629,
+    0.021171
+   ],
+   "lens_mm": 35.0,
+   "sensor_width_mm": 36
+  },
+  {
+   "frame": 89,
+   "t": 3.6667,
+   "position_gltf": [
+    -0.3324,
+    2.05,
+    -6.9667
+   ],
+   "target_gltf": [
+    0.3,
+    1.1324,
+    7.963
+   ],
+   "position_blender": [
+    -0.3324,
+    6.9667,
+    2.05
+   ],
+   "rotation_quat_blender_wxyz": [
+    0.015418,
+    0.0145,
+    -0.684941,
+    -0.728291
+   ],
+   "rotation_quat_gltf_xyzw": [
+    -0.000649,
+    -0.999306,
+    -0.030653,
+    0.021155
+   ],
+   "lens_mm": 35.0,
+   "sensor_width_mm": 36
+  },
+  {
+   "frame": 90,
+   "t": 3.7083,
+   "position_gltf": [
+    -0.3318,
+    2.05,
+    -6.9458
+   ],
+   "target_gltf": [
+    0.3,
+    1.1318,
+    7.9815
+   ],
+   "position_blender": [
+    -0.3318,
+    6.9458,
+    2.05
+   ],
+   "rotation_quat_blender_wxyz": [
+    0.015407,
+    0.014489,
+    -0.684924,
+    -0.728308
+   ],
+   "rotation_quat_gltf_xyzw": [
+    -0.000649,
+    -0.999305,
+    -0.030677,
+    0.021139
+   ],
+   "lens_mm": 35.0,
+   "sensor_width_mm": 36
+  },
+  {
+   "frame": 91,
+   "t": 3.75,
+   "position_gltf": [
+    -0.3312,
+    2.05,
+    -6.925
+   ],
+   "target_gltf": [
+    0.3,
+    1.1313,
+    8.0
+   ],
+   "position_blender": [
+    -0.3313,
+    6.925,
+    2.05
+   ],
+   "rotation_quat_blender_wxyz": [
+    0.015395,
+    0.014478,
+    -0.684907,
+    -0.728324
+   ],
+   "rotation_quat_gltf_xyzw": [
+    -0.000649,
+    -0.999305,
+    -0.030701,
+    0.021123
+   ],
+   "lens_mm": 35.0,
+   "sensor_width_mm": 36
+  },
+  {
+   "frame": 92,
+   "t": 3.7917,
+   "position_gltf": [
+    -0.3307,
+    2.05,
+    -6.9042
+   ],
+   "target_gltf": [
+    0.3,
+    1.1307,
+    8.0185
+   ],
+   "position_blender": [
+    -0.3307,
+    6.9042,
+    2.05
+   ],
+   "rotation_quat_blender_wxyz": [
+    0.015384,
+    0.014466,
+    -0.684889,
+    -0.728341
+   ],
+   "rotation_quat_gltf_xyzw": [
+    -0.000649,
+    -0.999305,
+    -0.030725,
+    0.021107
+   ],
+   "lens_mm": 35.0,
+   "sensor_width_mm": 36
+  },
+  {
+   "frame": 93,
+   "t": 3.8333,
+   "position_gltf": [
+    -0.3301,
+    2.05,
+    -6.8833
+   ],
+   "target_gltf": [
+    0.3,
+    1.1301,
+    8.037
+   ],
+   "position_blender": [
+    -0.3301,
+    6.8833,
+    2.05
+   ],
+   "rotation_quat_blender_wxyz": [
+    0.015373,
+    0.014455,
+    -0.684872,
+    -0.728358
+   ],
+   "rotation_quat_gltf_xyzw": [
+    -0.000649,
+    -0.999304,
+    -0.030749,
+    0.021091
+   ],
+   "lens_mm": 35.0,
+   "sensor_width_mm": 36
+  },
+  {
+   "frame": 94,
+   "t": 3.875,
+   "position_gltf": [
+    -0.3295,
+    2.05,
+    -6.8625
+   ],
+   "target_gltf": [
+    0.3,
+    1.1295,
+    8.0556
+   ],
+   "position_blender": [
+    -0.3295,
+    6.8625,
+    2.05
+   ],
+   "rotation_quat_blender_wxyz": [
+    0.015361,
+    0.014443,
+    -0.684855,
+    -0.728375
+   ],
+   "rotation_quat_gltf_xyzw": [
+    -0.000649,
+    -0.999304,
+    -0.030773,
+    0.021075
+   ],
+   "lens_mm": 35.0,
+   "sensor_width_mm": 36
+  },
+  {
+   "frame": 95,
+   "t": 3.9167,
+   "position_gltf": [
+    -0.3289,
+    2.05,
+    -6.8417
+   ],
+   "target_gltf": [
+    0.3,
+    1.1289,
+    8.0741
+   ],
+   "position_blender": [
+    -0.3289,
+    6.8417,
+    2.05
+   ],
+   "rotation_quat_blender_wxyz": [
+    0.01535,
+    0.014432,
+    -0.684837,
+    -0.728392
+   ],
+   "rotation_quat_gltf_xyzw": [
+    -0.000649,
+    -0.999304,
+    -0.030798,
+    0.021059
+   ],
+   "lens_mm": 35.0,
+   "sensor_width_mm": 36
+  },
+  {
+   "frame": 96,
+   "t": 3.9583,
+   "position_gltf": [
+    -0.3284,
+    2.05,
+    -6.8208
+   ],
+   "target_gltf": [
+    0.3,
+    1.1284,
+    8.0926
+   ],
+   "position_blender": [
+    -0.3284,
+    6.8208,
+    2.05
+   ],
+   "rotation_quat_blender_wxyz": [
+    0.015338,
+    0.014421,
+    -0.68482,
+    -0.728408
+   ],
+   "rotation_quat_gltf_xyzw": [
+    -0.000649,
+    -0.999303,
+    -0.030822,
+    0.021043
+   ],
+   "lens_mm": 35.0,
+   "sensor_width_mm": 36
+  }
+ ]
+}

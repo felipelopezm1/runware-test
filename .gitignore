@@ -2,13 +2,15 @@
 Thumbs.db
 __pycache__/
 *.pyc
+.venv/
 .log-state.json
 .log.lock
 .recordings-cache/
 node_modules/
-# The 4K master, every take and every screen recording live on Drive and on releases, never in plain Git.
-07-cut/master-4k/*.mp4
-05-shots/*/takes/*.mp4
+# The finished film, the 1080p assemblies and the screen recordings are over GitHub's comfortable size for one file:
+# they live on Drive and on a GitHub release, never in plain Git.
+07-cut/1080p/*.mp4
+07-cut/passes/*.mp4
 08-making-of/recordings/*.mp4
 10-b-roll/**/*.MOV
 10-b-roll/**/*.mov

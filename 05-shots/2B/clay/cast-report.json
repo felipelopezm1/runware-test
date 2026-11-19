@@ -1,0 +1,18 @@
+{
+ "ch-oswin": {
+  "glb": "/home/felipe-lopez/titanium/.hephaestus/storyboards/is-this-all-on-runware/making-of/meshes/rigged/oswin.glb",
+  "posed": true
+ },
+ "ch-sylwen": {
+  "glb": "/home/felipe-lopez/titanium/.hephaestus/storyboards/is-this-all-on-runware/making-of/meshes/rigged/sylwen.glb",
+  "posed": false
+ },
+ "ch-vessa": {
+  "glb": "/home/felipe-lopez/titanium/.hephaestus/storyboards/is-this-all-on-runware/making-of/meshes/rigged/vessa.glb",
+  "posed": false
+ },
+ "ch-borrin": {
+  "glb": "/home/felipe-lopez/titanium/.hephaestus/storyboards/is-this-all-on-runware/making-of/meshes/rigged/borrin.glb",
+  "posed": false
+ }
+}

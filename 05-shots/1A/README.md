@@ -1,20 +1,20 @@
 # 1A: The last of the bread
 
-Scene 1. TABLEAU, low angle, delayed push, 35 mm, 5 s.
+Scene 1. Storyboard shot 1A. TABLEAU, low angle, delayed push, 35 mm, 5 s.
 
-**What goes here**
+![first frame of the clay blocking](clay/first-frame.png)
 
-- `clay/`: the blocking clip, its first frame, the passes
-- `frame/`: every frame take and `frame-pick.png`
-- `takes/`: every Seedance 2.5 take, rated
-- `pick.mp4`: the chosen take
-- `prompt.txt`: the clip prompt as sent
+**In this folder**
 
-**Comes from** (on the laptop)
+- `clay/clay.mp4`: the blocking clip from the Blender stage, the locked camera and motion guide
+- `clay/first-frame.png`: its first frame, the layout reference every frame and clip was drawn from
+- `clay/cameras.json`: the camera path
+- `takes/1A-take-1.mp4`
+- `takes/1A-v2.mp4`
+- `pick.mp4`: the take that went into the cut
+- `compare/`: comparison strips, where the shot was filmed again
 
-- blocking and passes: `/home/felipe-lopez/titanium/.hephaestus/storyboards/is-this-all-on-runware/making-of/clay/1A/` (pending)
-- frames and takes: `/home/felipe-lopez/titanium/.hephaestus/storyboards/is-this-all-on-runware/making-of/takes/1A-*` (pending)
-- the pick: `/home/felipe-lopez/Desktop/Runware Test/Creative Task Runware/Final Shot/` (pending)
-- prompt: `/home/felipe-lopez/titanium/.hephaestus/storyboards/is-this-all-on-runware/making-of/prompts/1A.clip.txt`
+**Elsewhere**
 
-**Status:** planned; nothing generated yet
+- the 4K finish of the cut this take sits in: [`07-cut/`](../../07-cut/), and the [Drive folder](https://drive.google.com/drive/folders/1FWxTWA6g5YAU0IvnW3phteEQP4Db5o-Y) under `07-cut/`
+- the prompt as sent: pending the copy into `prompt.txt` (its text follows the shape in [`04-prompts/`](../../04-prompts/))

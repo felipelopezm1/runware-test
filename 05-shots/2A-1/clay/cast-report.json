@@ -1,0 +1,30 @@
+{
+ "ch-vel": {
+  "glb": "/home/felipe-lopez/titanium/.hephaestus/storyboards/is-this-all-on-runware/making-of/meshes/rigged/vel.glb",
+  "posed": false
+ },
+ "ch-mordecai": {
+  "glb": "/home/felipe-lopez/titanium/.hephaestus/storyboards/is-this-all-on-runware/making-of/meshes/rigged/mordecai.glb",
+  "posed": true
+ },
+ "ch-vessa": {
+  "glb": "/home/felipe-lopez/titanium/.hephaestus/storyboards/is-this-all-on-runware/making-of/meshes/rigged/vessa.glb",
+  "posed": false
+ },
+ "ch-borrin": {
+  "glb": "/home/felipe-lopez/titanium/.hephaestus/storyboards/is-this-all-on-runware/making-of/meshes/rigged/borrin.glb",
+  "posed": false
+ },
+ "ch-sylwen": {
+  "glb": "/home/felipe-lopez/titanium/.hephaestus/storyboards/is-this-all-on-runware/making-of/meshes/rigged/sylwen.glb",
+  "posed": false
+ },
+ "ch-oswin": {
+  "glb": "/home/felipe-lopez/titanium/.hephaestus/storyboards/is-this-all-on-runware/making-of/meshes/rigged/oswin.glb",
+  "posed": false
+ },
+ "ch-dax": {
+  "glb": "/home/felipe-lopez/titanium/.hephaestus/storyboards/is-this-all-on-runware/making-of/meshes/rigged/dax.glb",
+  "posed": false
+ }
+}

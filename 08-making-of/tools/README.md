@@ -10,8 +10,9 @@ The small tools the agents wrote for this production. Node (standard library onl
 - `director/`: the prompt assembler, the shot and shooting table builders, the bible blocks
 - `clerk-build.py`
 
-**Comes from** (on the laptop)
+**Where the files are**
 
-- `/home/felipe-lopez/titanium/.hephaestus/storyboards/is-this-all-on-runware/making-of/tools/`
 
+
+Everything not committed here is in the [Drive folder](https://drive.google.com/drive/folders/1FWxTWA6g5YAU0IvnW3phteEQP4Db5o-Y), which mirrors these folders; nothing points at a private machine.
 **Status:** written; copied in at the end
