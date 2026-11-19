@@ -538,15 +538,14 @@
     {
       "to": "07-cut/1080p",
       "from": "laptop:Creative Task Runware/Final Video",
-      "where": "drive",
-      "note": "about 60 MB each; the final one also on a GitHub release"
+      "where": "both",
+      "note": "about 60 MB each; v3 with the bridges is committed, the other three are on Drive only"
     },
     {
-      "to": "07-cut/passes",
+      "to": "07-cut/clean",
       "from": "laptop:Creative Task Runware/Final Passes",
-      "where": "drive",
-      "pending": true,
-      "note": "the clean cut and the 4K CRT finish; the 4K master also on a GitHub release"
+      "where": "both",
+      "note": "the clean cut, its pieces, scripts and check sheets, and the 4K CRT finish when it lands (the 4K master also on a GitHub release)"
     },
     {
       "to": "08-making-of/tools/finishing",
