@@ -10,4 +10,4 @@
 
 ![studio](studio.svg)
 
-**Where the files are:** what is committed is in this folder; everything else is in the [Drive folder](https://drive.google.com/drive/folders/1FWxTWA6g5YAU0IvnW3phteEQP4Db5o-Y) under `maps/`, which mirrors these folders. Nothing here points at a private machine.
+**Where the files are:** what is committed is in this folder; everything else is in the [Drive folder](https://drive.google.com/drive/folders/10ItuPjNM3tDqx8hkyrbqM2kwLtS14R6c) under `maps/`, which mirrors these folders. Nothing here points at a private machine.

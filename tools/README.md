@@ -15,4 +15,4 @@ node tools/gather.mjs --link              # the Git-sized files, as hard links (
 node tools/gather.mjs --link --large      # the Drive-only files too, into the same layout, ready to drag to Drive
 ```
 
-**Where the files are:** what is committed is in this folder; everything else is in the [Drive folder](https://drive.google.com/drive/folders/1FWxTWA6g5YAU0IvnW3phteEQP4Db5o-Y) under `tools/`, which mirrors these folders. Nothing here points at a private machine.
+**Where the files are:** what is committed is in this folder; everything else is in the [Drive folder](https://drive.google.com/drive/folders/1nFiIO_XQT6iK9xWWStWDRBCRF0ztYokD) under `tools/`, which mirrors these folders. Nothing here points at a private machine.

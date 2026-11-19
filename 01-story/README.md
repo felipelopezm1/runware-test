@@ -15,4 +15,4 @@ The hand-written shot lists planned 12 shots (1A, 1B, 1C, 2A, 2B, 2C, 3A to 3F);
 
 Scene lengths: 15 s, 15 s, 30 s, plus a 1.5 s fade and a 2 s title card.
 
-**Where the files are:** what is committed is in this folder; everything else is in the [Drive folder](https://drive.google.com/drive/folders/1FWxTWA6g5YAU0IvnW3phteEQP4Db5o-Y) under `01-story/`, which mirrors these folders. Nothing here points at a private machine.
+**Where the files are:** what is committed is in this folder; everything else is in the [Drive folder](https://drive.google.com/drive/folders/1eGt0NivZXlJYlq5FQYHKAwYVL63v9P-v) under `01-story/`, which mirrors these folders. Nothing here points at a private machine.

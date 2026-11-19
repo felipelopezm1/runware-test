@@ -9,4 +9,4 @@ Two short clips filmed on Seedance 2.5 to carry the cut across the scene changes
 
 The cut that uses them is `is-this-all-on-runware-v3-bridges-1080p` in [`07-cut/`](../../07-cut/).
 
-**Where the files are:** what is committed is in this folder; everything else is in the [Drive folder](https://drive.google.com/drive/folders/1FWxTWA6g5YAU0IvnW3phteEQP4Db5o-Y) under `05-shots/bridges/`, which mirrors these folders. Nothing here points at a private machine.
+**Where the files are:** what is committed is in this folder; everything else is in the [Drive folder](https://drive.google.com/drive/folders/1gGu7FDHZTGQ7ahAw4Lpokd3r-_Mz7I8u) under `05-shots/bridges/`, which mirrors these folders. Nothing here points at a private machine.
