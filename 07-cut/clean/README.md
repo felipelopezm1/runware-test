@@ -4,8 +4,8 @@ The film is finished. **The final version is the handheld CRT finish with the mi
 
 | file | what | size | where |
 | --- | --- | --- | --- |
-| `is-this-all-on-runware-crt-4k.mp4` | **the final film**: the clean cut with a mild handheld shake and the CRT look, 3840x2160, 24 fps, 63.958 s | 360 MB | Drive under `07-cut/clean/`, and the GitHub release |
-| `is-this-all-on-runware-crt-1080p.mp4` | the final film at 1080p, as rendered | 114 MB | Drive under `07-cut/clean/`, and the GitHub release (over GitHub's 100 MB file limit) |
+| [`is-this-all-on-runware-crt-4k.mp4`](https://github.com/felipelopezm1/runware-test/releases/download/v1.0/is-this-all-on-runware-crt-4k.mp4) | **the final film**: the clean cut with a mild handheld shake and the CRT look, 3840x2160, 24 fps, 63.958 s | 360 MB | [release v1.0](https://github.com/felipelopezm1/runware-test/releases/tag/v1.0), and Drive under `07-cut/clean/` |
+| [`is-this-all-on-runware-crt-1080p.mp4`](https://github.com/felipelopezm1/runware-test/releases/download/v1.0/is-this-all-on-runware-crt-1080p.mp4) | the final film at 1080p, as rendered | 114 MB | [release v1.0](https://github.com/felipelopezm1/runware-test/releases/tag/v1.0), and Drive under `07-cut/clean/` (over GitHub's 100 MB file limit) |
 | [`is-this-all-on-runware-crt-1080p-github.mp4`](is-this-all-on-runware-crt-1080p-github.mp4) | the same 1080p finish re-encoded at 11 Mb/s so it fits in Git and can be watched here | 90 MB | here |
 | `is-this-all-on-runware-clean-4k.mp4` | the clean cut at 4K, before the shake and the CRT look | 395 MB | Drive under `07-cut/clean/` |
 | [`is-this-all-on-runware-clean-1080p.mp4`](is-this-all-on-runware-clean-1080p.mp4) | the clean cut at 1080p: 63.958 s, 24 fps, -14 LUFS, title first and 1.5 s of black at the end | 82 MB | here |
@@ -24,4 +24,4 @@ No retake and no paid call went into this cut: ffmpeg and Python only, on the ta
 
 <p align="center"><img src="checks/check-joins.jpg" width="100%" alt="both sides of all 18 joins"></p>
 
-**Where the files are:** everything in this folder is committed except the two 4K files and the 114 MB 1080p render, which are in the [Drive folder](https://drive.google.com/drive/folders/1FWxTWA6g5YAU0IvnW3phteEQP4Db5o-Y) under `07-cut/clean/` and on the GitHub release. Nothing here points at a private machine.
+**Where the files are:** everything in this folder is committed except the two 4K files and the 114 MB 1080p render, which are in the [Drive folder](https://drive.google.com/drive/folders/1FWxTWA6g5YAU0IvnW3phteEQP4Db5o-Y) under `07-cut/clean/` and, for the finish, on [release v1.0](https://github.com/felipelopezm1/runware-test/releases/tag/v1.0). Nothing here points at a private machine.
