@@ -34,7 +34,7 @@ The log files every entry under one of fifteen plan steps:
 | 8 | clips on Seedance 2.5 (16 takes, then v2 and v3 retakes on eight shots, and two bridges) | done |
 | 9 | prompt assembly | written, applied at 7 and 8 |
 | 10 | voices and sound | no separate recordings yet (the audio folder is empty) |
-| 11 | the cut | four 1080p assemblies made (v1, v2, final, v3 with bridges); the clean cut and a 4K handheld CRT finish are being built |
+| 11 | the cut | done: four 1080p assemblies (v1, v2, final, v3 with bridges), then the clean cut at 16:15 UTC (`07-cut/clean/`, record in `cuts.md`); the 4K handheld CRT finish is being made from it |
 | 12 | title | done: the title card and the 1.5 s black are in `07-cut/title/` |
 | 13 | masks and passes (optional) | pending |
 | 14 | the showcase (social post, website piece) | pending |

@@ -1,1 +1,2 @@
-pick.mp4 is a copy of takes/1B-take-1-seedance25.mp4, the newest version in Final Shot/ at 16:00 UTC on 19 November 2026. The clean cut may choose otherwise; the log says.
+pick.mp4 is a copy of takes/1B-take-1-seedance25.mp4, the newest version in Final Shot/ at 16:00 UTC on 19 November 2026.
+In the clean cut (07-cut/clean/cuts.md): pick (take-1), 0 to 4.0 s.

@@ -18,3 +18,4 @@ node_modules/
 
 # The current film is committed so it can be watched without Drive (63 MB, under GitHub's limit)
 !07-cut/1080p/is-this-all-on-runware-v3-bridges-1080p.mp4
+!07-cut/clean/**

@@ -6,11 +6,11 @@
 
 A 60-second hyper-realistic fantasy short, made for the Runware creative engineer assessment. Seven 3D-printed character minis, two mob prints and three clay-walled sets were built and photographed by hand; everything after that was made by agents running on Runware, through one API, and recorded as it happened.
 
-This repository is the home of the whole project: the hand-made inputs, the logic (the prompts, the continuity rules, the pipeline, the tools), the generated assets, the film, and the record of how it was made. The production ran on 19 November 2026 and the finish is being built as this is written: every shot is filmed and its clay clip, takes and pick are here; the clean cut and the 4K finish arrive last. Anything marked **pending** has not been made yet. Everything too big for GitHub is in the [Drive folder](https://drive.google.com/drive/folders/1FWxTWA6g5YAU0IvnW3phteEQP4Db5o-Y), which mirrors these folders; no page here points at a private machine.
+This repository is the home of the whole project: the hand-made inputs, the logic (the prompts, the continuity rules, the pipeline, the tools), the generated assets, the film, and the record of how it was made. The production ran on 19 November 2026. Every shot is filmed and its clay clip, takes and pick are here; the clean cut is in [`07-cut/clean/`](07-cut/clean/) and the 4K finish is being built from it as this is written. Anything marked **pending** has not been made yet. Everything too big for GitHub is in the [Drive folder](https://drive.google.com/drive/folders/1FWxTWA6g5YAU0IvnW3phteEQP4Db5o-Y), which mirrors these folders; no page here points at a private machine.
 
 | | |
 | --- | --- |
-| film | 60 s plus a 1.5 s fade and a 2 s title, 16:9, 24 fps, 4K |
+| film | [the clean cut](07-cut/clean/is-this-all-on-runware-clean-1080p.mp4): 64 s with a 2 s title first and 1.5 s of black at the end, 16:9, 24 fps, 1080p; the 4K finish follows |
 | story | a party of seven, deep in a dungeon under a fallen castle, low on food, finds the frogs that flood their storeroom were running from something; the last line is the title |
 | scenes | the storeroom under the stairs (15 s), the flooded corridor (15 s), the roofless hall under the stars (30 s) |
 | shots | 16 takes on the storyboard, 62 s on screen |
@@ -45,7 +45,7 @@ Numbered in the order the work happened. Each folder has its own README saying w
 | [`04-prompts/`](04-prompts/) | the logic | the master prompt, the continuity bible, the asset paths, every prompt as sent per shot and per plate, the sheet facts |
 | [`05-shots/`](05-shots/) | one folder per shot, and the two bridges | the clay blocking clip, its first frame and camera path, every Seedance 2.5 take (take-1, v2, v3), the pick, the comparison strips |
 | [`06-sound/`](06-sound/) | voices, foley and music | every line in its character's voice, every cue, the music bed |
-| [`07-cut/`](07-cut/) | the film | the title card, the current 1080p film (committed), the earlier assemblies, the clean cut and the 4K finish (on Drive and a release), the reels |
+| [`07-cut/`](07-cut/) | the film | the title card, the clean cut with its pieces, scripts and record (committed), the assembly it came from, the 4K finish (on Drive and a release), the reels |
 | [`08-making-of/`](08-making-of/) | the record | the step log, the numbered screenshots and clips, the screen recordings, the working notes, the references, the tools |
 | [`09-showcase/`](09-showcase/) | what goes out | the social post, the website piece, the walkthrough recording |
 | [`10-b-roll/`](10-b-roll/) | the build on camera | printing, sculpting, painting and building, as filmed on a phone |
@@ -70,7 +70,7 @@ The quest followed fourteen steps, each on a named arm of Hephaestus and a pinne
 | 8 | clips: every shot filmed from its approved frame, with the face panels as references and the assembled prompt verbatim; 1A at 4K first, as the proof | Runware `rw_models`, `rw_video` | Seedance 2.5 (`bytedance:seedance@2.5`) | done: 16 shots, v2 and v3 retakes on eight, two bridges; every take in `05-shots/` |
 | 9 | prompt assembly: LOOK, WORLD, SCENE, location, every lock block with its state line and tags, the shot body, the hold line | prompt smith | | written |
 | 10 | voices and sound: every line in its voice, the frogs' chorus, the worm's scream, rain, lantern and steel, a 60 s low-string bed | Runware `rw_audio` | MiniMax Speech 2.8, Fish S2.1 Pro, Mirelo SFX 1.5, ACE-Step | no separate recordings yet |
-| 11 | the cut: shots in order, lines under their shots, cues, the rain building, a hard smash cut, a 1.5 s hold on black | director `board_attach`, `board_cut`; OpenCut `cut_edit` | | four 1080p assemblies made; the clean cut and the 4K handheld CRT finish are being built |
+| 11 | the cut: shots in order, lines under their shots, cues, the rain building, a hard smash cut, a 1.5 s hold on black | director `board_attach`, `board_cut`; OpenCut `cut_edit` | | done: four 1080p assemblies, then the clean cut in [`07-cut/clean/`](07-cut/clean/) with its record; the 4K handheld CRT finish is being made from it now |
 | 12 | title: "Is this all on Runware?", white serif on black, 2 s | titles `title_render` | | done, in `07-cut/title/` |
 | 13 | masks and passes where a sky needs replacing or a worm shot a relight (optional) | SAM 3 `mask_video`, `depth_video` | | pending |
 | 14 | the showcase: a builder's post and a website piece drafted from the log | director | | pending |
@@ -91,7 +91,7 @@ Beside the steps, the record: a log entry for every step through one tool, scree
 GitHub keeps a single file under 100 MB and warns above 50 MB. Measured against that, this project splits cleanly, and nothing needs Git LFS:
 
 - **In Git, as plain files**: everything that is text; every clay clip, first frame and camera path; every Seedance 2.5 take and pick (2 to 5 MB each, about 190 MB in all); the plates and stage renders; the title card; the previews, contact sheets and comparison strips; the log, the notes, the prompts and the tools. This is the part you can read and play on GitHub.
-- **In plain Git, as one exception**: the current film, [`07-cut/1080p/is-this-all-on-runware-v3-bridges-1080p.mp4`](07-cut/1080p/is-this-all-on-runware-v3-bridges-1080p.mp4) (63 MB), so it can be watched without leaving the repository.
+- **In plain Git, as two exceptions**: the clean cut, [`07-cut/clean/is-this-all-on-runware-clean-1080p.mp4`](07-cut/clean/is-this-all-on-runware-clean-1080p.mp4) (82 MB), and the assembly it was built from, [`07-cut/1080p/is-this-all-on-runware-v3-bridges-1080p.mp4`](07-cut/1080p/is-this-all-on-runware-v3-bridges-1080p.mp4) (63 MB), so the film can be watched without leaving the repository.
 - **On a GitHub release**: the finished film itself (the 4K finish and its 1080p copy), so it can be downloaded from the repository's page without Drive. A release asset may be up to 2 GB.
 - **On Google Drive, mirrored in the same folder layout**: everything, including what Git never takes: the 1080p assemblies (about 60 MB each), the 4K finish, the full-size character sheet panels (7 to 9 MB each, about 1.1 GB with every rejected take), the 250 numbered screenshots (about 290 MB), the screen recordings (85 MB per ten minutes), the phone photos of the minis and the builds, and the phone footage of the build (about 900 MB). The Drive folder is the backup and the place to open any of it without cloning: [Is this all on Runware? on Google Drive](https://drive.google.com/drive/folders/1FWxTWA6g5YAU0IvnW3phteEQP4Db5o-Y).
 

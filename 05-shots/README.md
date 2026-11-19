@@ -14,24 +14,24 @@ Sixteen shots, named as the shot lists and the takes name them (`1C-1`, `2A-2`; 
 
 All sixteen clay clips, first frames and camera files are here. The takes and picks are here too (every take is 2 to 5 MB, so plain Git holds them all); the compare strips for the shots that were filmed again. Frames drawn on Nano Banana Pro: see the note in each folder.
 
-| folder | board | scene | title | size | angle | move | lens | length | takes |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| [`1A/`](1A/) | 1A | Scene 1 | The last of the bread | TABLEAU | low angle | delayed push | 35 mm | 5 s | take-1, v2 |
-| [`1B/`](1B/) | 1B | Scene 1 | The dead pond | MCU | chest height | breath-drift hold | 50 mm | 4 s | take-1 |
-| [`1C-1/`](1C-1/) | 1C | Scene 1 | Company: the stairs (from the doorway) | WS | high angle | handheld float | 28 mm | 2.5 s | take-1 |
-| [`1C-2/`](1C-2/) | 1D | Scene 1 | Company: the room erupts (behind Mordecai and Oswin) | WS | low angle | handheld | 28 mm | 3.5 s | take-1, v2, v3 |
-| [`2A-1/`](2A-1/) | 2A | Scene 2 | Eleven. Nine. (over Mordecai's shoulder) | MWS | rear three-quarter | over-shoulder follow | 35 mm | 2 s | take-1, v2 |
-| [`2A-2/`](2A-2/) | 2B | Scene 2 | The follow, carried on | MWS | rear three-quarter | over-shoulder follow | 35 mm | 3 s | take-1, v2, v3 |
-| [`2B/`](2B/) | 2C | Scene 2 | Oswin's water does nothing | MS | hip level | handheld float | 50 mm | 4 s | take-1, v2 |
-| [`2C/`](2C/) | 2D | Scene 2 | They were running from something | WS | profile angle | parallel track | 40 mm | 6 s | take-1, v2, v3 |
-| [`3A/`](3A/) | 3A | Scene 3 | Into the roofless hall | EWS | rear three-quarter | crane up | 24 mm | 5 s | take-1, v2 |
-| [`3B/`](3B/) | 3B | Scene 3 | The worm rears | WS | low angle | tilt up | 28 mm | 5 s | take-1 |
-| [`3C-1/`](3C-1/) | 3C | Scene 3 | Vessa hacks at the collar | MS | eye level | handheld | 50 mm | 2 s | take-1 |
-| [`3C-2/`](3C-2/) | 3D | Scene 3 | Behind the shield; Sylwen in the coil | MS | eye level | breath-drift hold | 50 mm | 3 s | take-1 |
-| [`3D-1/`](3D-1/) | 3E | Scene 3 | Up out of the mud | FS | hero low angle | arc follow | 35 mm | 3 s | take-1, v2 |
-| [`3D-2/`](3D-2/) | 3F | Scene 3 | Forward through the rain | FS | hero low angle | handheld | 35 mm | 3 s | take-1 |
-| [`3E/`](3E/) | 3G | Scene 3 | Dax's jump and Mordecai's blast | FS | low angle | snap-zoom-in punch | 85 mm | 5 s | take-1 |
-| [`3F/`](3F/) | 3H | Scene 3 | Is this all on Runware? | TABLEAU | low angle | locked-off | 24 mm | 6 s | take-1 |
-| [`bridges/`](bridges/) | | 1 to 2, 2 to 3 | the two bridge clips that carry the cut between scenes | | | | | | v1, final |
+| folder | board | scene | title | size | angle | move | lens | length | takes | in the clean cut |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| [`1A/`](1A/) | 1A | Scene 1 | The last of the bread | TABLEAU | low angle | delayed push | 35 mm | 5 s | take-1, v2 | not in the film, dropped in the clean cut: wrong room |
+| [`1B/`](1B/) | 1B | Scene 1 | The dead pond | MCU | chest height | breath-drift hold | 50 mm | 4 s | take-1 | pick (take-1), 0 to 4.0 s |
+| [`1C-1/`](1C-1/) | 1C | Scene 1 | Company: the stairs (from the doorway) | WS | high angle | handheld float | 28 mm | 2.5 s | take-1 | pick (take-1), 0 to 2.5 s |
+| [`1C-2/`](1C-2/) | 1D | Scene 1 | Company: the room erupts (behind Mordecai and Oswin) | WS | low angle | handheld | 28 mm | 3.5 s | take-1, v2, v3 | v3, 0 to 3.5 s |
+| [`2A-1/`](2A-1/) | 2A | Scene 2 | Eleven. Nine. (over Mordecai's shoulder) | MWS | rear three-quarter | over-shoulder follow | 35 mm | 2 s | take-1, v2 | v2, graded to 2B, 0.5 to 2.0 s |
+| [`2A-2/`](2A-2/) | 2B | Scene 2 | The follow, carried on | MWS | rear three-quarter | over-shoulder follow | 35 mm | 3 s | take-1, v2, v3 | v3, graded to 2B, 0 to 3.0 s |
+| [`2B/`](2B/) | 2C | Scene 2 | Oswin's water does nothing | MS | hip level | handheld float | 50 mm | 4 s | take-1, v2 | v2, 0 to 4.0 s |
+| [`2C/`](2C/) | 2D | Scene 2 | They were running from something | WS | profile angle | parallel track | 40 mm | 6 s | take-1, v2, v3 | v3, 3.0 to 6.0 s |
+| [`3A/`](3A/) | 3A | Scene 3 | Into the roofless hall | EWS | rear three-quarter | crane up | 24 mm | 5 s | take-1, v2 | v2, 0.5 to 5.0 s |
+| [`3B/`](3B/) | 3B | Scene 3 | The worm rears | WS | low angle | tilt up | 28 mm | 5 s | take-1 | pick (take-1), 0 to 5.0 s |
+| [`3C-1/`](3C-1/) | 3C | Scene 3 | Vessa hacks at the collar | MS | eye level | handheld | 50 mm | 2 s | take-1 | pick (take-1), 0 to 2.0 s |
+| [`3C-2/`](3C-2/) | 3D | Scene 3 | Behind the shield; Sylwen in the coil | MS | eye level | breath-drift hold | 50 mm | 3 s | take-1 | pick (take-1), 0 to 3.0 s |
+| [`3D-1/`](3D-1/) | 3E | Scene 3 | Up out of the mud | FS | hero low angle | arc follow | 35 mm | 3 s | take-1, v2 | v2, 0 to 3.0 s |
+| [`3D-2/`](3D-2/) | 3F | Scene 3 | Forward through the rain | FS | hero low angle | handheld | 35 mm | 3 s | take-1 | pick (take-1), 0 to 3.0 s |
+| [`3E/`](3E/) | 3G | Scene 3 | Dax's jump and Mordecai's blast | FS | low angle | snap-zoom-in punch | 85 mm | 5 s | take-1 | pick (take-1), 0 to 3.375 s, cut before the skull face |
+| [`3F/`](3F/) | 3H | Scene 3 | Is this all on Runware? | TABLEAU | low angle | locked-off | 24 mm | 6 s | take-1 | pick (take-1), 0 to 6.0 s |
+| [`bridges/`](bridges/) | | 1 to 2, 2 to 3 | the two bridge clips that carry the cut between scenes | | | | | | v1, final | bridge-1-2-v1 whole (5.04 s, its last second graded), bridge-2-3 whole (4.04 s) |
 
-**Status, 19 November 2026 16:00 UTC:** every shot is filmed and has a pick; the clean cut and the 4K finish are being built in [`07-cut/`](../07-cut/).
+**Status, 19 November 2026 16:20 UTC:** every shot is filmed and has a pick; the clean cut is in [`07-cut/clean/`](../07-cut/clean/) and the last column says which take of each shot is in it and where it is trimmed (the whole record is [`cuts.md`](../07-cut/clean/cuts.md)); the 4K finish is being built from it.
