@@ -19,3 +19,7 @@ The fallen castle's great hall, 40 m by 25 m, open to a cold starry night, a 20 
 - plates: `/home/felipe-lopez/titanium/.hephaestus/storyboards/is-this-all-on-runware/making-of/plates/` (`lo-roofless-hall-*.png`, `layout/`, `prompts/`)
 
 **Status:** build photos and maps exist; stage built and turntable rendered; plates drawn (hall-1 small fixes, hall-2 more work at the frame step); not yet copied in
+
+![layout of plate 1 over the build](plates/layout-lo-roofless-hall-1.png)
+
+*The layout overlay of the first plate: where the agents placed the build's walls, stairs and props before drawing it.*

@@ -5,7 +5,7 @@ Githyanki leader and the lead of the film; silvered rapier Needle with a swept b
 **What goes here**
 
 - `prints/`: the turnaround photos of the mini (IMG_8237 to IMG_8240)
-- `sheet/`: `Character 6 - Sera'kith Vel.md` (the hand-written persona sheet) and the drawn panels
+- `sheet/`: `Character 6 - Sera'kith Vel.md` (the hand-written persona sheet, in), `preview-face-front.jpg` (in) and the drawn panels at full size (pending the copy)
 - `mesh/`: the cast mesh and its turntable
 
 **Comes from** (on the laptop)

@@ -19,3 +19,7 @@ A vaulted cellar, 8 m by 6 m, the worn staircase along the right wall climbing t
 - plates: `/home/felipe-lopez/titanium/.hephaestus/storyboards/is-this-all-on-runware/making-of/plates/` (`lo-storeroom-*.png`, `layout/`, `prompts/`)
 
 **Status:** build photos and maps exist; stage built and turntable rendered; plates drawn (storeroom-1 reads as real set photography; storeroom-2 kept); not yet copied in
+
+![layout of plate 1 over the build](plates/layout-lo-storeroom-1.png)
+
+*The layout overlay of the first plate: where the agents placed the build's walls, stairs and props before drawing it.*

@@ -5,7 +5,7 @@ Dwarf, conical nasal helmet, long bearded axe with the lantern hung under its he
 **What goes here**
 
 - `prints/`: the turnaround photos of the mini (IMG_8220 to IMG_8223)
-- `sheet/`: `Character 2 - Borrin Hollowcask.md` (the hand-written persona sheet) and the drawn panels
+- `sheet/`: `Character 2 - Borrin Hollowcask.md` (the hand-written persona sheet, in), `preview-face-front.jpg` (in) and the drawn panels at full size (pending the copy)
 - `mesh/`: the cast mesh and its turntable
 
 **Comes from** (on the laptop)

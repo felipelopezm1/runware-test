@@ -5,7 +5,7 @@ Elf healer, gown, barefoot, carries nothing; caught in the worm's coil in scene 
 **What goes here**
 
 - `prints/`: the turnaround photos of the mini (IMG_8228 to IMG_8232)
-- `sheet/`: `Character 4 - Sylwen Aerindel (elf healer).md` (the hand-written persona sheet) and the drawn panels
+- `sheet/`: `Character 4 - Sylwen Aerindel (elf healer).md` (the hand-written persona sheet, in), `preview-face-front.jpg` (in) and the drawn panels at full size (pending the copy)
 - `mesh/`: the cast mesh and its turntable
 
 **Comes from** (on the laptop)

@@ -5,7 +5,7 @@ Undead necromancer, skull face, horned helmet; no weapon, casts acid-green flame
 **What goes here**
 
 - `prints/`: the turnaround photos of the mini (IMG_8241 to IMG_8244)
-- `sheet/`: `Character 7 - Mordecai Ashgrave.md` (the hand-written persona sheet) and the drawn panels
+- `sheet/`: `Character 7 - Mordecai Ashgrave.md` (the hand-written persona sheet, in), `preview-face-front.jpg` (in) and the drawn panels at full size (pending the copy)
 - `mesh/`: the cast mesh and its turntable
 
 **Comes from** (on the laptop)

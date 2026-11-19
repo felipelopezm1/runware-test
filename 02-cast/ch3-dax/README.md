@@ -5,7 +5,7 @@ Half-githyanki barbarian, sword Halfblade broken through the middle and held in 
 **What goes here**
 
 - `prints/`: the turnaround photos of the mini (IMG_8224 to IMG_8227)
-- `sheet/`: `Character 3 - Dax Vorrune.md` (the hand-written persona sheet) and the drawn panels
+- `sheet/`: `Character 3 - Dax Vorrune.md` (the hand-written persona sheet, in), `preview-face-front.jpg` (in) and the drawn panels at full size (pending the copy)
 - `mesh/`: the cast mesh and its turntable
 
 **Comes from** (on the laptop)

@@ -19,3 +19,7 @@ A 30 m vaulted corridor from the top of the stairs to a cold grey archway, ankle
 - plates: `/home/felipe-lopez/titanium/.hephaestus/storyboards/is-this-all-on-runware/making-of/plates/` (`lo-corridor-*.png`, `layout/`, `prompts/`)
 
 **Status:** build photos and maps exist; stage built and turntable rendered; plates drawn (corridor-1 needs small fixes at the frame step); not yet copied in
+
+![layout of plate 1 over the build](plates/layout-lo-corridor-1.png)
+
+*The layout overlay of the first plate: where the agents placed the build's walls, stairs and props before drawing it.*

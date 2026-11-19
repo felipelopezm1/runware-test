@@ -5,7 +5,7 @@ Coiled round a rubble mound in the roofless hall; the articulated print is its s
 **What goes here**
 
 - `prints/`: the turnaround photos of the mini (IMG_8253 to IMG_8262)
-- `sheet/`: `Mob 2 - The earthworm.md` (the hand-written persona sheet) and the drawn panels
+- `sheet/`: `Mob 2 - The earthworm.md` (the hand-written persona sheet, in), `preview-face-front.jpg` (in) and the drawn panels at full size (pending the copy)
 - `mesh/`: the cast mesh and its turntable
 
 **Comes from** (on the laptop)

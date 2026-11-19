@@ -5,7 +5,7 @@ Old bearded human priest, crystal staff with a clear faceted crystal, water magi
 **What goes here**
 
 - `prints/`: the turnaround photos of the mini (IMG_8233 to IMG_8236)
-- `sheet/`: `Character 5 - Father Oswin Tallow (human priest).md` (the hand-written persona sheet) and the drawn panels
+- `sheet/`: `Character 5 - Father Oswin Tallow (human priest).md` (the hand-written persona sheet, in), `preview-face-front.jpg` (in) and the drawn panels at full size (pending the copy)
 - `mesh/`: the cast mesh and its turntable
 
 **Comes from** (on the laptop)
