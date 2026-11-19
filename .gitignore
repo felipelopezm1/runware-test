@@ -1,0 +1,15 @@
+.DS_Store
+Thumbs.db
+__pycache__/
+*.pyc
+.log-state.json
+.log.lock
+.recordings-cache/
+node_modules/
+# The 4K master, every take and every screen recording live on Drive and on releases, never in plain Git.
+07-cut/master-4k/*.mp4
+05-shots/*/takes/*.mp4
+08-making-of/recordings/*.mp4
+10-b-roll/**/*.MOV
+10-b-roll/**/*.mov
+10-b-roll/**/*.MP4
