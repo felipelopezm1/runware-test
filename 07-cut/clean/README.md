@@ -7,10 +7,11 @@
 | [`cuts.md`](cuts.md) | the cut's record: what changed from v3 and why, every piece with its in and out, the loudness work, the grade on 2A-1 and 2A-2, the joins, the known flaws kept |
 | [`pieces/`](pieces/) | the 19 pieces in order, each rendered on its own (title, 17 shot and bridge pieces, black); the film is their concatenation |
 | [`grade-scripts/`](grade-scripts/) | the Python and shell that graded 2A-1, 2A-2 and the tail of bridge-1-2-v1, cut and loudness-matched every piece, and the measurements they wrote |
+| `is-this-all-on-runware-clean-4k.mp4` | the same cut at 4K (3840x2160, 395 MB): too big for Git, so it is on Drive under `07-cut/clean/` and will be a GitHub release asset with the finish |
 | [`checks/`](checks/) | the three check sheets the agents looked at: the grade against 2B, the bridge tail, and both sides of all 18 joins |
 
 No retake and no paid call went into this cut: ffmpeg and Python only, on the takes already in [`05-shots/`](../../05-shots/).
 
 <p align="center"><img src="checks/check-joins.jpg" width="100%" alt="both sides of all 18 joins"></p>
 
-**Where the files are:** everything in this folder is committed; the Drive folder mirrors it under `07-cut/clean/`.
+**Where the files are:** everything in this folder is committed except the 4K master and the 4K finish, which are on the Drive folder under `07-cut/clean/` and on the GitHub release.
