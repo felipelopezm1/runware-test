@@ -9,7 +9,8 @@
  *
  *   node tools/gather.mjs                 dry run: says what would be copied, how big, and what is missing
  *   node tools/gather.mjs --copy          copies the Git-sized files (every entry without "large": true)
- *   node tools/gather.mjs --link          the same as hard links (same filesystem): no disk is used on the machine
+ *   node tools/gather.mjs --link          the same as hard links (same filesystem): no disk is used; a file that cannot
+ *                                         be linked is named and left out, never copied
  *   node tools/gather.mjs --copy --large  the Drive-only files too, into the same layout, ready to upload to Drive
  *   node tools/gather.mjs --only 02-cast  limits to entries whose "to" starts with that prefix
  *
@@ -23,6 +24,9 @@ import { fileURLToPath } from "node:url";
 const here = path.dirname(fileURLToPath(import.meta.url));
 const repo = path.resolve(here, "..");
 const spec = JSON.parse(fs.readFileSync(path.join(here, "paths.json"), "utf8"));
+// GATHER_LAPTOP and GATHER_STORYBOARD override the two roots (for a test on another machine).
+if (process.env.GATHER_LAPTOP) spec.roots.laptop = process.env.GATHER_LAPTOP;
+if (process.env.GATHER_STORYBOARD) spec.roots.storyboard = process.env.GATHER_STORYBOARD;
 const args = process.argv.slice(2);
 const link = args.includes("--link");
 const copy = args.includes("--copy") || link;
@@ -37,6 +41,7 @@ const expand = (entry) =>
 const glob = (pattern) => new RegExp("^" + pattern.split("*").map((p) => p.replace(/[.+?^${}()|[\]\\]/g, "\\$&")).join(".*") + "$", "i");
 
 let planned = 0, bytes = 0, copied = 0, missing = 0, skipped = 0;
+const unlinked = [];
 const lines = [];
 for (const raw of spec.map) {
   for (const entry of expand(raw)) {
@@ -68,7 +73,10 @@ for (const raw of spec.map) {
       planned++; bytes += size;
       if (copy) {
         fs.mkdirSync(path.dirname(d), { recursive: true });
-        if (link) { try { fs.linkSync(s, d); } catch { fs.copyFileSync(s, d); } } else fs.copyFileSync(s, d);
+        if (link) {
+          // a hard link uses no disk; across filesystems it fails, and then the file is skipped and named, never copied
+          try { fs.linkSync(s, d); } catch { unlinked.push(d); continue; }
+        } else fs.copyFileSync(s, d);
         copied++;
       }
     }
@@ -76,4 +84,5 @@ for (const raw of spec.map) {
   }
 }
 console.log(lines.join("\n"));
+if (unlinked.length) console.log(`\ncould not hard-link (another filesystem), left out:\n  ${unlinked.join("\n  ")}`);
 console.log(`\n${copy ? copied + " copied" : planned + " to copy"}, ${(bytes / 1e6).toFixed(1)} MB; ${missing} sources missing or pending; ${skipped} large entries ${large ? "" : "skipped (add --large)"}`);
