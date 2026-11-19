@@ -35,3 +35,5 @@ All sixteen clay clips, first frames and camera files are here. The takes and pi
 | [`bridges/`](bridges/) | | 1 to 2, 2 to 3 | the two bridge clips that carry the cut between scenes | | | | | | v1, final | bridge-1-2-v1 whole (5.04 s, its last second graded), bridge-2-3 whole (4.04 s) |
 
 **Status, 19 November 2026 16:20 UTC:** every shot is filmed and has a pick; the clean cut is in [`07-cut/clean/`](../07-cut/clean/) and the last column says which take of each shot is in it and where it is trimmed (the whole record is [`cuts.md`](../07-cut/clean/cuts.md)); the 4K finish is being built from it.
+
+**Where the files are:** what is committed is in this folder; everything else is in the [Drive folder](https://drive.google.com/drive/folders/1FWxTWA6g5YAU0IvnW3phteEQP4Db5o-Y) under `05-shots/`, which mirrors these folders. Nothing here points at a private machine.

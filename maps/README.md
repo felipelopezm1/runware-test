@@ -9,3 +9,5 @@
 ![pipeline](pipeline.svg)
 
 ![studio](studio.svg)
+
+**Where the files are:** what is committed is in this folder; everything else is in the [Drive folder](https://drive.google.com/drive/folders/1FWxTWA6g5YAU0IvnW3phteEQP4Db5o-Y) under `maps/`, which mirrors these folders. Nothing here points at a private machine.

@@ -31,3 +31,5 @@ chN-name/
 ```
 
 The panels are 2K PNGs of 7 to 9 MB each (about 1.1 GB for all nine sheets with their rejected takes). See the README's note on large files: the picked panels come here; every take, including the rejected ones, stays in `08-making-of/` and on Drive.
+
+**Where the files are:** what is committed is in this folder; everything else is in the [Drive folder](https://drive.google.com/drive/folders/1FWxTWA6g5YAU0IvnW3phteEQP4Db5o-Y) under `02-cast/`, which mirrors these folders. Nothing here points at a private machine.

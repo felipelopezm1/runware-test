@@ -14,3 +14,5 @@ The script, the shot lists and the storyboard: everything that says what happens
 The hand-written shot lists planned 12 shots (1A, 1B, 1C, 2A, 2B, 2C, 3A to 3F); the agents' director split and reshaped them into the storyboard's 16 takes, matching the action maps where the maps and the lists disagreed (the master prompt's rule: the map wins, and the change is written in the log). `shotlist.md` is the one that is being filmed.
 
 Scene lengths: 15 s, 15 s, 30 s, plus a 1.5 s fade and a 2 s title card.
+
+**Where the files are:** what is committed is in this folder; everything else is in the [Drive folder](https://drive.google.com/drive/folders/1FWxTWA6g5YAU0IvnW3phteEQP4Db5o-Y) under `01-story/`, which mirrors these folders. Nothing here points at a private machine.
