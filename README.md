@@ -45,7 +45,7 @@ Numbered in the order the work happened. Each folder has its own README saying w
 | [`04-prompts/`](04-prompts/) | the logic | the master prompt, the continuity bible, the asset paths, every prompt as sent per shot and per plate, the sheet facts |
 | [`05-shots/`](05-shots/) | one folder per shot, and the two bridges | the clay blocking clip, its first frame and camera path, every Seedance 2.5 take (take-1, v2, v3), the pick, the comparison strips |
 | [`06-sound/`](06-sound/) | voices, foley and music | every line in its character's voice, every cue, the music bed |
-| [`07-cut/`](07-cut/) | the film | the title card, the 1080p assemblies, the clean cut and the 4K finish (on Drive and a release), the reels |
+| [`07-cut/`](07-cut/) | the film | the title card, the current 1080p film (committed), the earlier assemblies, the clean cut and the 4K finish (on Drive and a release), the reels |
 | [`08-making-of/`](08-making-of/) | the record | the step log, the numbered screenshots and clips, the screen recordings, the working notes, the references, the tools |
 | [`09-showcase/`](09-showcase/) | what goes out | the social post, the website piece, the walkthrough recording |
 | [`10-b-roll/`](10-b-roll/) | the build on camera | printing, sculpting, painting and building, as filmed on a phone |
@@ -91,6 +91,7 @@ Beside the steps, the record: a log entry for every step through one tool, scree
 GitHub keeps a single file under 100 MB and warns above 50 MB. Measured against that, this project splits cleanly, and nothing needs Git LFS:
 
 - **In Git, as plain files**: everything that is text; every clay clip, first frame and camera path; every Seedance 2.5 take and pick (2 to 5 MB each, about 190 MB in all); the plates and stage renders; the title card; the previews, contact sheets and comparison strips; the log, the notes, the prompts and the tools. This is the part you can read and play on GitHub.
+- **In plain Git, as one exception**: the current film, [`07-cut/1080p/is-this-all-on-runware-v3-bridges-1080p.mp4`](07-cut/1080p/is-this-all-on-runware-v3-bridges-1080p.mp4) (63 MB), so it can be watched without leaving the repository.
 - **On a GitHub release**: the finished film itself (the 4K finish and its 1080p copy), so it can be downloaded from the repository's page without Drive. A release asset may be up to 2 GB.
 - **On Google Drive, mirrored in the same folder layout**: everything, including what Git never takes: the 1080p assemblies (about 60 MB each), the 4K finish, the full-size character sheet panels (7 to 9 MB each, about 1.1 GB with every rejected take), the 250 numbered screenshots (about 290 MB), the screen recordings (85 MB per ten minutes), the phone photos of the minis and the builds, and the phone footage of the build (about 900 MB). The Drive folder is the backup and the place to open any of it without cloning: [Is this all on Runware? on Google Drive](https://drive.google.com/drive/folders/1FWxTWA6g5YAU0IvnW3phteEQP4Db5o-Y).
 
