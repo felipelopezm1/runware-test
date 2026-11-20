@@ -2,7 +2,8 @@
   "note": "Where each folder of this repository comes from on the production machine, and where it ends up. `laptop` is the hand-made pack, `storyboard` the agents' output; paths are relative to those two roots. `where` is `git` (committed here), `drive` (the Drive folder, in this same layout) or `both`. `pending: true` marks folders whose source does not exist yet. This file is the only page in the repository that names the production machine; every other page points at the file here or at its place on Drive.",
   "roots": {
     "laptop": "/home/felipe-lopez/Desktop/Runware Test",
-    "storyboard": "/home/felipe-lopez/titanium/.hephaestus/storyboards/is-this-all-on-runware"
+    "storyboard": "/home/felipe-lopez/titanium/.hephaestus/storyboards/is-this-all-on-runware",
+    "storyboards": "/home/felipe-lopez/titanium/.hephaestus/storyboards"
   },
   "map": [
     {
@@ -580,6 +581,160 @@
       "files": "is-this-all-on-runware-*.mp4",
       "where": "drive",
       "note": "Drive only: the final films (clean and CRT, 4K and 1080p) in the Finals folder"
+    },
+    {
+      "to": "02-cast/source-sheets",
+      "from": "laptop:Creative Task Runware/Script/Characters",
+      "tree": true,
+      "where": "drive",
+      "note": "the hand-made character folders as they are, with their subfolders (the prints and panels are also sorted per character above)"
+    },
+    {
+      "to": "02-cast/storyboard-sheets",
+      "from": "storyboard:sheets",
+      "tree": true,
+      "where": "drive",
+      "note": "the storyboard's per-character sheet index files"
+    },
+    {
+      "to": "03-locations/scene-1-storeroom/source-assets",
+      "from": "laptop:Creative Task Runware/Assets/Scene 1",
+      "tree": true,
+      "where": "drive"
+    },
+    {
+      "to": "03-locations/scene-2-corridor/source-assets",
+      "from": "laptop:Creative Task Runware/Assets/Scene 2",
+      "tree": true,
+      "where": "drive"
+    },
+    {
+      "to": "03-locations/scene-3-roofless-hall/source-assets",
+      "from": "laptop:Creative Task Runware/Assets/Scene 3",
+      "tree": true,
+      "where": "drive"
+    },
+    {
+      "to": "07-cut/final-shot",
+      "from": "laptop:Creative Task Runware/Final Shot",
+      "tree": true,
+      "where": "drive",
+      "note": "the hand-made Final Shot folder"
+    },
+    {
+      "to": "07-cut/clean/pieces",
+      "from": "laptop:Creative Task Runware/Final Passes/pieces",
+      "where": "both"
+    },
+    {
+      "to": "07-cut/clean/grade-scripts",
+      "from": "laptop:Creative Task Runware/Final Passes/grade-scripts",
+      "where": "both"
+    },
+    {
+      "to": "10-b-roll/source",
+      "from": "laptop:Creative Task Runware/Pre Production Assets/B Roll",
+      "tree": true,
+      "where": "drive"
+    },
+    {
+      "to": "08-making-of/sheets",
+      "from": "storyboard:making-of/sheets",
+      "tree": true,
+      "where": "drive",
+      "note": "every character sheet panel the agents drew, full size, with the rejected takes"
+    },
+    {
+      "to": "08-making-of/recordings",
+      "from": "storyboard:making-of/recordings",
+      "tree": true,
+      "where": "drive"
+    },
+    {
+      "to": "08-making-of/previews",
+      "from": "storyboard:making-of/previews",
+      "tree": true,
+      "where": "drive"
+    },
+    {
+      "to": "08-making-of/inputs",
+      "from": "storyboard:making-of/inputs",
+      "tree": true,
+      "where": "drive"
+    },
+    {
+      "to": "08-making-of/meshes",
+      "from": "storyboard:making-of/meshes",
+      "tree": true,
+      "where": "drive"
+    },
+    {
+      "to": "08-making-of/takes",
+      "from": "storyboard:making-of/takes",
+      "tree": true,
+      "where": "drive"
+    },
+    {
+      "to": "08-making-of/finishing",
+      "from": "storyboard:making-of/finishing",
+      "tree": true,
+      "where": "drive"
+    },
+    {
+      "to": "08-making-of/tools",
+      "from": "storyboard:making-of/tools",
+      "tree": true,
+      "where": "drive"
+    },
+    {
+      "to": "08-making-of/references",
+      "from": "storyboard:making-of/references",
+      "tree": true,
+      "where": "drive"
+    },
+    {
+      "to": "08-making-of/notes",
+      "from": "storyboard:making-of/notes",
+      "tree": true,
+      "where": "drive"
+    },
+    {
+      "to": "04-prompts/shots",
+      "from": "storyboard:making-of/prompts",
+      "tree": true,
+      "where": "drive"
+    },
+    {
+      "to": "01-story/history",
+      "from": "storyboard:history",
+      "tree": true,
+      "where": "drive",
+      "note": "the storyboard's version history"
+    },
+    {
+      "to": "09-showcase/storyboards/how-the-studio-works",
+      "from": "storyboards:how-the-studio-works",
+      "tree": true,
+      "where": "drive",
+      "note": "the explainer's storyboard folder"
+    },
+    {
+      "to": "09-showcase/storyboards/how-it-was-done",
+      "from": "storyboards:how-it-was-done",
+      "tree": true,
+      "where": "drive"
+    },
+    {
+      "to": "09-showcase/storyboards/comparison-reel",
+      "from": "storyboards:comparison-reel",
+      "tree": true,
+      "where": "drive"
+    },
+    {
+      "to": "09-showcase/storyboards/is-this-all-on-runware-2",
+      "from": "storyboards:is-this-all-on-runware-2",
+      "tree": true,
+      "where": "drive"
     }
   ]
 }

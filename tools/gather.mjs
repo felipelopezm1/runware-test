@@ -15,7 +15,8 @@
  *   node tools/gather.mjs --only 02-cast  limits to entries whose "to" starts with that prefix
  *
  * An entry's "from" is "<root>:<path>"; "files" is a space-separated list of glob-like names (* only) taken from
- * that folder; "{shot}" in "to", "from" or "files" expands to each of the sixteen shots.
+ * that folder; "{shot}" in "to", "from" or "files" expands to each of the sixteen shots. An entry with "tree": true
+ * takes the whole folder with its subfolders, keeping the relative paths (.git, .venv and node_modules skipped).
  */
 import fs from "node:fs";
 import path from "node:path";
@@ -59,6 +60,16 @@ for (const raw of spec.map) {
     const pairs = [];
     if (stat.isFile()) {
       pairs.push([src, dst]);
+    } else if (entry.tree) {
+      const walk = (dir) => {
+        for (const n of fs.readdirSync(dir)) {
+          const p = path.join(dir, n);
+          const st = fs.statSync(p);
+          if (st.isDirectory()) { if (![".git", ".venv", "node_modules", "__pycache__"].includes(n)) walk(p); }
+          else if (st.isFile()) pairs.push([p, path.join(dst, path.relative(src, p))]);
+        }
+      };
+      walk(src);
     } else {
       const names = fs.readdirSync(src).filter((n) => fs.statSync(path.join(src, n)).isFile());
       const wanted = entry.files ? entry.files.split(/\s+/).map(glob) : null;
