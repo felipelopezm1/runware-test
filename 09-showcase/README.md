@@ -13,4 +13,6 @@ Both texts are drafted by the agents from the log and rewritten by hand before a
 
 **Where the files are:** what is committed is in this folder; everything else is in the [Drive folder](https://drive.google.com/drive/folders/1HylMiuTVZQXylHiYofQDtnVKLozJmFsG) under `09-showcase/`, which mirrors these folders. Nothing here points at a private machine.
 
+Also on Drive only: `storyboards/`, the storyboard folders of the end videos (`how-the-studio-works`, `how-it-was-done`, `comparison-reel`, `is-this-all-on-runware-2`) as the agents left them.
+
 **Status:** the film is finished; the making-of and the comparison reel are finished (on Drive and the release); the five-minute explainer is on the release and in the Drive Finals folder; the social post is Felipe's in [`social-post.md`](social-post.md) (and as `Social post (LinkedIn).docx`, to go with the explainer); [`website-piece.md`](website-piece.md) is the agents' first draft, Felipe writes the piece himself

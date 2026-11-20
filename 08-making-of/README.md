@@ -38,3 +38,5 @@ The log files every entry under one of fifteen plan steps:
 | 12 | title | done: the title card and the 1.5 s black are in `07-cut/title/` |
 | 13 | masks and passes (optional) | pending |
 | 14 | the showcase (social post, website piece) | pending |
+
+Also on Drive only, as whole folders with their subfolders: `sheets/` (every character sheet panel the agents drew, full size, with the rejected takes, about 1.5 GB), `previews/`, `inputs/`, `meshes/`, `takes/`, `finishing/`, `tools/`, `references/`, `notes/` and the full `recordings/` tree, exactly as the storyboard folder holds them.

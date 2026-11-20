@@ -14,8 +14,8 @@ The repository holds everything that fits in Git (the story, the character sheet
 | 04-prompts | https://github.com/felipelopezm1/runware-test/tree/claude/project-thread-xs5t14/04-prompts | the master prompt, the continuity bible |
 | 05-shots | https://github.com/felipelopezm1/runware-test/tree/claude/project-thread-xs5t14/05-shots | one folder per shot: clay, takes, pick |
 | 07-cut | https://github.com/felipelopezm1/runware-test/tree/claude/project-thread-xs5t14/07-cut | the title, the assemblies, the clean cut, the final 4K finish |
-| 08-making-of | https://github.com/felipelopezm1/runware-test/tree/claude/project-thread-xs5t14/08-making-of | the log, the notes, the screenshots and recordings |
-| 09-showcase | https://github.com/felipelopezm1/runware-test/tree/claude/project-thread-xs5t14/09-showcase | the end videos and the texts |
+| 08-making-of | https://github.com/felipelopezm1/runware-test/tree/claude/project-thread-xs5t14/08-making-of | the log, the notes, the screenshots and recordings, every full-size sheet panel, the previews, inputs, meshes and takes |
+| 09-showcase | https://github.com/felipelopezm1/runware-test/tree/claude/project-thread-xs5t14/09-showcase | the end videos, the texts, the storyboards of the end videos |
 | 10-b-roll | https://github.com/felipelopezm1/runware-test/tree/claude/project-thread-xs5t14/10-b-roll | the phone footage of the build |
 | tools | https://github.com/felipelopezm1/runware-test/tree/claude/project-thread-xs5t14/tools | the map between the two and the script that builds this mirror |
 | Finals | (not in the repository; the films are on https://github.com/felipelopezm1/runware-test/releases/tag/v1.0) | the final film, clean and CRT, 4K and 1080p, beside the three end videos: the one folder to open to watch |

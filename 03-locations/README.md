@@ -23,3 +23,5 @@ scene-N-name/
 `axes.md` in this folder is the frame every position in the film is written in (origin, axes, facing, the proportion rule that maps the clay build to the lock block's metres).
 
 **Where the files are:** what is committed is in this folder; everything else is in the [Drive folder](https://drive.google.com/drive/folders/19oNrUVefdrb2mwJs_GR5v11iavYkja07) under `03-locations/`, which mirrors these folders. Nothing here points at a private machine.
+
+Also on Drive only: each scene's `source-assets/` folder, the hand-made Assets folder for that scene exactly as it is.

@@ -11,4 +11,6 @@ Felipe's own footage of printing, sculpting and painting the minis and building 
 
 **Where the files are:** what is committed is in this folder; everything else is in the [Drive folder](https://drive.google.com/drive/folders/1_CVNuLryvFD9Crtn5MxfIGcoKg80Lcqh) under `10-b-roll/`, which mirrors these folders. Nothing here points at a private machine.
 
+Also on Drive only: `source/`, the hand-made B Roll folder exactly as it is.
+
 **Status:** 27 clips and photos exist (about 900 MB of phone video); they go to Drive, with the posters here
