@@ -18,5 +18,7 @@ The repository holds everything that fits in Git (the story, the character sheet
 | 09-showcase | https://github.com/felipelopezm1/runware-test/tree/claude/project-thread-xs5t14/09-showcase | the end videos and the texts |
 | 10-b-roll | https://github.com/felipelopezm1/runware-test/tree/claude/project-thread-xs5t14/10-b-roll | the phone footage of the build |
 | tools | https://github.com/felipelopezm1/runware-test/tree/claude/project-thread-xs5t14/tools | the map between the two and the script that builds this mirror |
+| Finals | (not in the repository; the films are on https://github.com/felipelopezm1/runware-test/releases/tag/v1.0) | the final film, clean and CRT, 4K and 1080p, beside the three end videos: the one folder to open to watch |
+| (beta testing) | (not in the repository) | the beta test of the engine before this film: "Mara in the fog forest", made twice, with its graded versions, masters, stills, making-of and reference boards |
 
 The final film is also on the GitHub release: https://github.com/felipelopezm1/runware-test/releases/tag/v1.0

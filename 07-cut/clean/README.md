@@ -24,4 +24,4 @@ No retake and no paid call went into this cut: ffmpeg and Python only, on the ta
 
 <p align="center"><img src="checks/check-joins.jpg" width="100%" alt="both sides of all 18 joins"></p>
 
-**Where the files are:** everything in this folder is committed except the two 4K files and the 114 MB 1080p render, which are in the [Drive folder](https://drive.google.com/drive/folders/1FWxTWA6g5YAU0IvnW3phteEQP4Db5o-Y) under `07-cut/clean/` and, for the finish, on [release v1.0](https://github.com/felipelopezm1/runware-test/releases/tag/v1.0). Nothing here points at a private machine.
+**Where the files are:** everything in this folder is committed except the two 4K files and the 114 MB 1080p render, which are in the [Drive folder](https://drive.google.com/drive/folders/1VP4VsWQFfI_AG4jpcVgF0BZrNn_b0Hnm) under `07-cut/clean/` and, for the finish, on [release v1.0](https://github.com/felipelopezm1/runware-test/releases/tag/v1.0). Nothing here points at a private machine.

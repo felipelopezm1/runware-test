@@ -15,7 +15,7 @@ The record is a deliverable, not a by-product. Every step of the production, inc
 | [`tools/`](tools/) | the tools the agents wrote for this production: the log tool, the intake converter and viewer, the director's prompt assembler, the recording scripts, and `finishing/` (the handheld motion and CRT finish, the Topaz 4K pass) | the finishing tools are here; the rest at the end |
 | `inputs/` | the intake: every hand-made input converted to 2048 px JPEG with a 320 px thumb, poster frames of the clips, contact sheets, and the manifest of all 252 files | made (not copied here: the originals are in `02-cast/` and `03-locations/`, the manifest is in `notes/`) |
 
-The log names every input and output by the path it had on the production machine, as written; that is the record. The sheets, plates, meshes and takes it points at are in `02-cast/`, `03-locations/` and `05-shots/` here, or in the [Drive folder](https://drive.google.com/drive/folders/1FWxTWA6g5YAU0IvnW3phteEQP4Db5o-Y) at the place [`tools/paths.json`](../tools/paths.json) gives, which mirrors these folders.
+The log names every input and output by the path it had on the production machine, as written; that is the record. The sheets, plates, meshes and takes it points at are in `02-cast/`, `03-locations/` and `05-shots/` here, or in the [Drive folder](https://drive.google.com/drive/folders/1KJjhNZV6iPPao_gczu0MbwCtLkjE4uo2) at the place [`tools/paths.json`](../tools/paths.json) gives, which mirrors these folders.
 
 ## The plan steps
 

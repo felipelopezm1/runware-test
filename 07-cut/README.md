@@ -11,6 +11,6 @@ The film, in the order it was made: the title, the 1080p assemblies, the clean c
 | `picks/` | the picked take of every shot in order (copies of `05-shots/*/pick.mp4`) | in `05-shots/` here |
 | `reels/` | the time-lapse of every take and the comparison reel per shot | pending |
 
-**Where the files are:** what is committed is in this folder; everything else is in the [Drive folder](https://drive.google.com/drive/folders/1FWxTWA6g5YAU0IvnW3phteEQP4Db5o-Y) under `07-cut/`, which mirrors these folders. Nothing here points at a private machine.
+**Where the files are:** what is committed is in this folder; everything else is in the [Drive folder](https://drive.google.com/drive/folders/1juyE0-suxmhWmGCIBmtff-UqxkQxNRRH) under `07-cut/`, which mirrors these folders. Nothing here points at a private machine.
 
 The 4K path held: every clip was made natively on Seedance 2.5, so Topaz was not needed for the clips; the finishing tools in [`08-making-of/tools/finishing/`](../08-making-of/tools/finishing/) carry a Topaz 4K pass for the finish if it is wanted.
