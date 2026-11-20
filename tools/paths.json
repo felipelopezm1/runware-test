@@ -539,7 +539,8 @@
       "to": "07-cut/1080p",
       "from": "laptop:Creative Task Runware/Final Video",
       "where": "both",
-      "note": "about 60 MB each; v3 with the bridges is committed, the other three are on Drive only"
+      "note": "about 60 MB each; v3 with the bridges is committed, the other three are on Drive only",
+      "files": "is-this-all-on-runware-*.mp4"
     },
     {
       "to": "07-cut/clean",
@@ -558,6 +559,13 @@
       "from": "storyboard:making-of/finishing/tests",
       "where": "drive",
       "note": "the handheld and CRT test renders"
+    },
+    {
+      "to": "09-showcase/videos",
+      "from": "laptop:Creative Task Runware/Final Video",
+      "files": "how-it-was-done*.mp4 how-it-was-done*.wav comparison-reel*.mp4 comparison-reel*.wav",
+      "where": "drive",
+      "note": "the end videos: the 15-minute making-of and the comparison reel (with its cycling version), too big for Git; on Drive and on release v1.0"
     }
   ]
 }
