@@ -1,28 +1,24 @@
-# Social post: LinkedIn caption
+# Social post: LinkedIn
 
-For the third end video (the five-minute explainer). The same caption works with the 60-second film attached; swap the first line for the one at the bottom. Drafted by the agents from the log on 20 November 2026, to be rewritten by hand before it is posted. Nothing here has been published.
+The LinkedIn post that goes with the third end video, the five-minute "How the studio works" explainer (release link: https://github.com/felipelopezm1/runware-test/releases/download/v1.0/how-the-studio-works-5min-1080p.mp4, live once the file is on release v1.0). Felipe's version, 20 November 2026. Also on Drive as `Finals/Social post (LinkedIn).docx`.
 
 ---
 
-Is this all on Runware? Yes. Here is the five-minute version of how.
+Is this all on Runware? Yep. Here's the five-minute version of how.
 
-Seven air-dry clay minis, three cardboard sets and a phone. That was the whole hand-made input for a 60-second dungeon film. Everything on screen after that came out of one API.
+I made seven little clay minis, three cardboard sets, and grabbed my phone. That's all the handmade stuff behind a 60-second dungeon film. Everything else on screen came out of one API.
 
-How it ran:
+Roughly how it went:
 
-- The minis were photographed, captioned and turned into character sheets on Nano Banana Pro. The sets became Blender stages, and every shot was blocked with a camera before a cent was spent.
-- Each shot then went the same way: the clay blocking clip as the camera and motion guide, the character panels as face references, the location plate as the place, one first frame on Nano Banana Pro, then the clip on Seedance 2.5 at 4K. Sixteen shots, two bridges, retakes on eight.
-- Voices on MiniMax Speech and Fish, foley on Mirelo, the music bed on ACE-Step. All through Runware, one pinned model per job, nothing sent before it was quoted and approved.
+- Photographed the minis and turned them into character sheets with Nano Banana Pro. Rebuilt the sets as Blender stages and blocked every shot with a camera before spending anything.
+- Every shot followed the same recipe: clay blocking for camera and motion, character panels for faces, a location plate for the place, a first frame on Nano Banana Pro, then the clip on Seedance 2.5 in 4K. Sixteen shots, two bridges, a few retakes.
+- Voices, foley and music all through Runware too.
 
-Spend on Runware for the whole film: about 127 USD, against a ceiling of 178.
+Whole film: about 127 USD.
 
-Why it matters if you build products: the hard part was never the model. It was continuity. Seven characters have to stay themselves across sixteen shots, and that came from structure (sheets, stages, blocking, a continuity bible the prompts obey), not from prompt luck. That structure is the thing I would ship.
+The fun surprise: the model was never the hard part. Keeping seven characters looking like themselves across sixteen shots was, and that came from structure, not lucky prompts.
 
-Film, the 15-minute making-of, the comparison reel, every prompt, every take and the full log are public:
+Film, making-of, every prompt and the full log are public if you want to poke around:
 https://github.com/felipelopezm1/runware-test
 
 #Runware #Seedance #NanoBananaPro #AIFilm #GenerativeVideo #BuildInPublic
-
----
-
-First line when the 60-second film is attached instead: "Is this all on Runware? Yes. Seven clay minis, one API, 60 seconds. Here is the film, and below it how it was made."
