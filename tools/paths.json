@@ -563,14 +563,14 @@
     {
       "to": "09-showcase/videos",
       "from": "laptop:Creative Task Runware/Final Video",
-      "files": "how-it-was-done*.mp4 how-it-was-done*.wav comparison-reel*.mp4 comparison-reel*.wav *explainer*.mp4 *explainer*.wav *titanium*.mp4 *titanium*.wav",
+      "files": "how-it-was-done*.mp4 how-it-was-done*.wav comparison-reel*.mp4 comparison-reel*.wav how-the-studio-works*.mp4 how-the-studio-works*.wav *explainer*.mp4 *explainer*.wav *titanium*.mp4 *titanium*.wav",
       "where": "drive",
       "note": "the end videos: the 15-minute making-of, the comparison reel (with its cycling version) and the Titanium explainer, with their sound stems; too big for Git, so on Drive and on release v1.0"
     },
     {
       "to": "Finals",
       "from": "laptop:Creative Task Runware/Final Video",
-      "files": "how-it-was-done-1080p.mp4 comparison-reel-1080p.mp4 comparison-reel-1080p-cycle.mp4 *explainer*.mp4 *titanium*.mp4",
+      "files": "how-it-was-done-1080p.mp4 comparison-reel-1080p.mp4 comparison-reel-1080p-cycle.mp4 how-the-studio-works-5min-1080p.mp4 *explainer*.mp4 *titanium*.mp4",
       "where": "drive",
       "note": "Drive only: the finals in one folder, the three end videos (and the explainer when it lands) beside the final films"
     },

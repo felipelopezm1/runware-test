@@ -1,6 +1,6 @@
 # Social post: LinkedIn
 
-The LinkedIn post that goes with the third end video, the five-minute "How the studio works" explainer (release link: https://github.com/felipelopezm1/runware-test/releases/download/v1.0/how-the-studio-works-5min-1080p.mp4, live once the file is on release v1.0). Felipe's version, 20 November 2026. Also on Drive as `Finals/Social post (LinkedIn).docx`.
+The LinkedIn post that goes with the third end video, the five-minute "How the studio works" explainer (release link: https://github.com/felipelopezm1/runware-test/releases/download/v1.0/how-the-studio-works-5min-1080p.mp4). Felipe's version, 20 November 2026. Also on Drive as `Finals/Social post (LinkedIn).docx`.
 
 ---
 
