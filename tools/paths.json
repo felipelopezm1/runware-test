@@ -563,9 +563,9 @@
     {
       "to": "09-showcase/videos",
       "from": "laptop:Creative Task Runware/Final Video",
-      "files": "how-it-was-done*.mp4 how-it-was-done*.wav comparison-reel*.mp4 comparison-reel*.wav",
+      "files": "how-it-was-done*.mp4 how-it-was-done*.wav comparison-reel*.mp4 comparison-reel*.wav *explainer*.mp4 *explainer*.wav *titanium*.mp4 *titanium*.wav",
       "where": "drive",
-      "note": "the end videos: the 15-minute making-of and the comparison reel (with its cycling version), too big for Git; on Drive and on release v1.0"
+      "note": "the end videos: the 15-minute making-of, the comparison reel (with its cycling version) and the Titanium explainer, with their sound stems; too big for Git, so on Drive and on release v1.0"
     }
   ]
 }
