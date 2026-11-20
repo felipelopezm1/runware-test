@@ -73,7 +73,7 @@ The quest followed fourteen steps, each on a named arm of Hephaestus and a pinne
 | 11 | the cut: shots in order, lines under their shots, cues, the rain building, a hard smash cut, a 1.5 s hold on black | director `board_attach`, `board_cut`; OpenCut `cut_edit` | | done: four 1080p assemblies, the clean cut with its record, then the final handheld CRT finish at 4K and 1080p, all in [`07-cut/clean/`](07-cut/clean/) |
 | 12 | title: "Is this all on Runware?", white serif on black, 2 s | titles `title_render` | | done, in `07-cut/title/` |
 | 13 | masks and passes where a sky needs replacing or a worm shot a relight (optional) | SAM 3 `mask_video`, `depth_video` | | pending |
-| 14 | the showcase: the making-of video, the comparison reel, a builder's post and a website piece | director | | the making-of (15 min) and the comparison reel are done, on Drive and the release; the texts are pending |
+| 14 | the showcase: the making-of video, the comparison reel, a builder's post and a website piece | director | | the making-of (15 min) and the comparison reel are done, on Drive and the release; the builder's post and the website piece are drafted in `09-showcase/`, to be rewritten by hand |
 
 Beside the steps, the record: a log entry for every step through one tool, screenshots through the browser arm, recordings of the Loom and the storyboard editor while the clips land, a turntable of every mesh and location, a time-lapse and a comparison reel at the end. The spec is section 6 of the [master prompt](04-prompts/00-MASTER-PROMPT.md); the result is [`08-making-of/`](08-making-of/).
 

@@ -13,4 +13,4 @@ Both texts are drafted by the agents from the log and rewritten by hand before a
 
 **Where the files are:** what is committed is in this folder; everything else is in the [Drive folder](https://drive.google.com/drive/folders/1FWxTWA6g5YAU0IvnW3phteEQP4Db5o-Y) under `09-showcase/`, which mirrors these folders. Nothing here points at a private machine.
 
-**Status:** the film is finished; the making-of and the comparison reel are finished (on Drive and the release); the Titanium explainer and the two texts are pending
+**Status:** the film is finished; the making-of and the comparison reel are finished (on Drive and the release); the two texts are drafted by the agents in [`social-post.md`](social-post.md) and [`website-piece.md`](website-piece.md), to be rewritten by hand before anything is posted; the Titanium explainer is pending
